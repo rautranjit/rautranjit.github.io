@@ -85,13 +85,13 @@ lastfm_id: # your lastfm id
 lattes_id: # your ID on Lattes (Brazilian Lattes CV)
 linkedin_username: theranjitraut
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
-medium_username: # your Medium username
+medium_username: ranjitraut
 orcid_id: # your ORCID ID
 osf_id: # your OSF ID
 pinterest_id: theranjitraut
 publons_id: # your ID on Publons
 quora_username: # your Quora username
-research_gate_profile: # your profile on ResearchGate
+research_gate_profile: Ranjit-Raut
 scholar_userid: # your Google Scholar ID
 scopus_id: # your profile on Scopus
 semanticscholar_id: # your Semantic Scholar ID
@@ -109,7 +109,7 @@ youtube_id: ranjitraut
 zotero_username: # your zotero username
 
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+  A man from Planet Earth
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
