@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: An Amateur AI Scientist
+subtitle: Homo de Terra
 
 profile:
   align: right
