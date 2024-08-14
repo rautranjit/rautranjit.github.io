@@ -95,7 +95,7 @@ scholar_userid:  # your Google Scholar ID
 scopus_id: # your profile on Scopus
 semanticscholar_id: # your Semantic Scholar ID
 spotify_id: # your spotify id
-stackoverflow_id: ranjitraut
+stackoverflow_id: 
 telegram_username: # your Telegram user name
 unsplash_id: ranjitraut
 wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
