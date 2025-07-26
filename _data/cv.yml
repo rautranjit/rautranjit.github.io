@@ -1,0 +1,192 @@
+- title: General Information
+  type: map
+  contents:
+    - name: Full Name
+      value: Ranjit Raut
+    - name: Languages
+      value: English, Nepali
+
+- title: Education
+  type: time_table
+  contents:
+    - title: Undergraduate
+      institution: Kathmandu University
+      year: 2022-26
+      description:
+        - Studied Bachelor of Technology in Artificial Intelligence.
+        - title: Research on
+          contents:
+            - Computer Vision,
+            - Natural Language Processing,
+            - Reinforcement Learning,
+            - Robotics, etc.
+
+    - title: SLC
+      institution: Trinity International SS/College
+      year: 2020-22
+      description:
+        - Studied Physics, Mathematics, and Computer Science.
+
+    - title: SEE
+      institution: Udayasi English Secondary School
+      year: 2018-22
+      description:
+        - Studied Science, Mathematics, and Computer Science.
+
+    - title: BLE
+      institution: Mulberry English Secondary School
+      year: 2006-18
+      description:
+        - Studied Science, Mathematics, and Computer Science.
+
+- title: Experience
+  type: time_table
+  contents:
+    - title: Research Fellow and Publication Lead
+      institution: Artificial Intelligence and Smart System Research (AISSR) Lab, Kathmandu University
+      year: 2024 - 2025
+      description:
+        - Research on computer vision.
+
+    - title: Microsoft Learn Student Ambassador
+      institution: Microsoft
+      year: 2023-2024
+      description:
+        - Mentored learners.
+        - title: Organized
+          contents:
+            - Workshops
+            - Events
+
+    - title: Researcher
+      institution: HomoDeTerra
+      year: 2023-2024
+      description:
+
+    - title: Editor
+      institution: Quotesnaut
+      year: 2022 - 2023
+      description:
+
+    - title: Blogger
+      institution: SurfTheKnowledge
+      year: 2021 - 2022
+      description:
+
+    - title: Developer
+      institution: Moxcie
+      year: 2020 - 2021
+      description:
+
+- title: Volunteering
+  type: time_table
+  contents:
+    - title: Mentor
+      year: Jul 2025
+      description: I mentored the Python x Git Bootcamp in Kathmandu University Artificial Intelligence Club (KUAIC).
+
+    - title: Research Fellow and Publication LeadResearch Fellow and Publication Lead
+      year: 2024 - 2025
+      description: I did research and published research papers.
+
+    - title: Project Exhibitor and Competition Facilitator
+      year: Dec 2024
+      description: I exhibited projects and conducted a Typing Competition for AI MEET 2024 in Kathmandu University Artificial Intelligence Club (KUAIC).
+
+    - title: Microsoft Learn Student Ambassador
+      year: Apr 2023 - Jun 2024
+      description: Learn Student Ambassadors are a global group of campus leaders who are eager to help fellow students, create robust tech communities, and develop technical and career skills for the future.
+
+    - title: Workshop Facilitator
+      year: Mar 2024
+      description: I gave a workshop on "Introduction to Open-source with GitHub" in Kathmandu University Artificial Intelligence Club (KUAIC).
+
+    - title: Competition Facilitator
+      year: Aug 2023
+      description: I conducted a Typing Competition for AI MEET 2023 in Kathmandu University Artificial Intelligence Club (KUAIC).
+
+    - title: Volunteer
+      year: May 2023
+      description: I calligraphed various accolades for all the attendees of DATATHON 2023 in Kathmandu University Artificial Intelligence Club (KUAIC).
+
+    - title: GoogleCloudReady Facilitator Program
+      year: Jul 2022
+      description: GoogleCloudReady Facilitator program will provide you with an opportunity to kickstart your career in cloud and get hands-on practice on Google Cloud.
+
+    - title: Google Crowdsource Contributor
+      year: Jun 2022 - Jan 2024
+      description: Crowdsource by Google is a fun, easy way for you to use your own abilities to contribute to the building blocks of Artificial Intelligence (AI).
+
+    - title: GitHub Graduation 2022 Localization Contributor
+      year: May 2022
+      description: GitHub Graduation 2022 was an online graduation ceremony to celebrate graduates of the class of 2022.
+
+    - title: GeeksforGeeks Article Contributor
+      year: Sep 2021 - Jan 2022
+      description: GeeksforGeeks is a leading platform that provides computer science resources and coding challenges for programmers and technology enthusiasts, along with interview and exam preparations for upcoming aspirants.
+
+    - title: Google Maps Contributor
+      year: May 2020 - Sep 2021
+      description: I added places, edited, and corrected information.
+
+- title: Honors and Awards
+  type: time_table
+  contents:
+    - year: Oct 2024
+      items:
+        - Hacktoberfest 2024 Hall of Fame
+
+    - year: Mar 2024
+      items:
+        - Beta Microsoft Learn Student Ambassador
+
+    - year: Oct 2023
+      items:
+        - Hacktoberfest 2024 Hall of Fame
+
+    - year: Apr 2023
+      items:
+        - Alpha Microsoft Learn Student Ambassador
+
+    - year: May 2022
+      items:
+        - GitHub Graduation 2022 Localization Contributor
+
+    - year: Oct 2022
+      items:
+        - Hacktoberfest 2024 Hall of Fame
+
+- title: Academic Interests
+  type: nested_list
+  contents:
+    - title: Artificial Intelligence.
+      items:
+        - Computer Vision
+        - Natural Language Processing
+        - Reinforcement Learning
+        - Robotics
+
+    - title: Science & Technology.
+      items:
+        - Quantum Mechanics & Quantum Computing.
+        - Blockchain & web3.
+        - Web 3.0 & Industry 4.0.
+
+    - title: Mathematics.
+      items:
+        - Vector Calculus
+        - Linear Algebra
+        - Probability & Distributions
+        - Analytic Geometry
+        - Matrix Decomposition
+        - Optimization
+
+    - title: Philosophy.
+      items:
+        - Eastern Philosophy
+        - Western Philosophy
+
+- title: Other Interests
+  type: list
+  contents:
+    - <u>Hobbies:</u> Sports, Caligraphy, etc.
