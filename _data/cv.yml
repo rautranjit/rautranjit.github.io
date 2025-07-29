@@ -52,40 +52,64 @@
       institution: Microsoft
       year: 2023-2024
       description:
+        - Hosted events, workshops, and webinars to drive engagement and build their influence within the tech community. 
+        - Engaged with Microsoft employees, MVPs, Cloud Advocates, and other students worldwide.
+        - Encouraged peers to use Microsoft Learn, which offers free resources, tutorials, and courses on various Microsoft technologies.
         - Mentored learners.
         - title: Organized
           contents:
             - Workshops
-            - Events
+            - Events        
 
     - title: Researcher
       institution: HomoDeTerra
       year: 2023-2024
       description:
-
+        - Research on Large Language Models (LLM), Large Vision Models (LVM), Multimodal Models, RLHF, GRPO, RAG, and Agentic AI.
+      
     - title: Editor
       institution: Quotesnaut
       year: 2022 - 2023
       description:
+        - Audio, video, text, and image editing
+        - Search Engine Optimization (SEO) for YouTube, Facebook, Instagram, X, Linkedin and marketing
+        - Animation
+        - Content statistics analyst
+        - Researcher
 
     - title: Blogger
       institution: SurfTheKnowledge
       year: 2021 - 2022
       description:
-
+        - Article writing
+        - SEO (On-page and off-page)
+        - Web development
+        - Analytics and Reporting
+        - Digital advertising
+        - Graphic design
+        - Video production
+        
     - title: Developer
       institution: Moxcie
       year: 2020 - 2021
       description:
+        - Build and maintain open-source software projects using Git and GitHub.
+        - Track bugs, issues, and feature requests using tools like GitHub or issue trackers.
+        - Implement various methodologies for competitive programming and various design patterns and principles for efficient project workflows.
+        - Perform  tasks like code reviews, license compliance checks, and contributor agreements.
 
 - title: Volunteering
   type: time_table
   contents:
+    - title: Keynote Speaker
+      year: Jul 2025
+      description: I gave a session on, Research and Its Impacts, in IEEE Computer Society - Pulchowk.
+
     - title: Mentor
       year: Jul 2025
       description: I mentored the Python x Git Bootcamp in Kathmandu University Artificial Intelligence Club (KUAIC).
 
-    - title: Research Fellow and Publication LeadResearch Fellow and Publication Lead
+    - title: Research Fellow and Publication Lead
       year: 2024 - 2025
       description: I did research and published research papers.
 
@@ -94,7 +118,7 @@
       description: I exhibited projects and conducted a Typing Competition for AI MEET 2024 in Kathmandu University Artificial Intelligence Club (KUAIC).
 
     - title: Microsoft Learn Student Ambassador
-      year: Apr 2023 - Jun 2024
+      year: 2023 - 2024
       description: Learn Student Ambassadors are a global group of campus leaders who are eager to help fellow students, create robust tech communities, and develop technical and career skills for the future.
 
     - title: Workshop Facilitator
@@ -114,7 +138,7 @@
       description: GoogleCloudReady Facilitator program will provide you with an opportunity to kickstart your career in cloud and get hands-on practice on Google Cloud.
 
     - title: Google Crowdsource Contributor
-      year: Jun 2022 - Jan 2024
+      year: 2022 - 2024
       description: Crowdsource by Google is a fun, easy way for you to use your own abilities to contribute to the building blocks of Artificial Intelligence (AI).
 
     - title: GitHub Graduation 2022 Localization Contributor
@@ -122,11 +146,11 @@
       description: GitHub Graduation 2022 was an online graduation ceremony to celebrate graduates of the class of 2022.
 
     - title: GeeksforGeeks Article Contributor
-      year: Sep 2021 - Jan 2022
+      year: 2021 - 2022
       description: GeeksforGeeks is a leading platform that provides computer science resources and coding challenges for programmers and technology enthusiasts, along with interview and exam preparations for upcoming aspirants.
 
     - title: Google Maps Contributor
-      year: May 2020 - Sep 2021
+      year: 2020 - 2021
       description: I added places, edited, and corrected information.
 
 - title: Honors and Awards
@@ -171,6 +195,7 @@
         - Quantum Mechanics & Quantum Computing.
         - Blockchain & web3.
         - Web 3.0 & Industry 4.0.
+        - IoTs
 
     - title: Mathematics.
       items:
@@ -189,4 +214,4 @@
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Sports, Caligraphy, etc.
+    - <u>Hobbies:</u> Sports, Calligraphy, etc.
