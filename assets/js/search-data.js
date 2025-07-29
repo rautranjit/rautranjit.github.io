@@ -192,10 +192,7 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-joined-kathmandu-university",
-          title: 'Joined Kathmandu University',
-          description: "",
-          section: "News",},{id: "news-i-m-tryin-to-fit-the-curve",
+            },},{id: "news-i-m-tryin-to-fit-the-curve",
           title: 'I’m tryin’ to fit the curve!',
           description: "",
           section: "News",},{id: "projects-tigermove",
