@@ -248,11 +248,18 @@ ninja.data = [{
           window.open("https://scholar.google.com/citations?user=Kok0OGgAAAAJ", "_blank");
         },
       },{
+        id: 'social-orcid',
+        title: 'ORCID',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://orcid.org/0009-0007-7844-1227", "_blank");
+        },
+      },{
         id: 'social-researchgate',
         title: 'ResearchGate',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.researchgate.net/profile/theranjitraut/", "_blank");
+          window.open("https://www.researchgate.net/profile/Ranjit-Raut/", "_blank");
         },
       },{
         id: 'social-github',
@@ -280,7 +287,7 @@ ninja.data = [{
         title: 'X',
         section: 'Socials',
         handler: () => {
-          window.open("https://twitter.com/Ranjit-Raut", "_blank");
+          window.open("https://twitter.com/theranjitraut", "_blank");
         },
       },{
         id: 'social-youtube',
@@ -302,13 +309,6 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("mailto:%68%65%6C%6C%6F@%72%61%6E%6A%69%74%72%61%75%74.%63%6F%6D.%6E%70", "_blank");
-        },
-      },{
-        id: 'social-blogger',
-        title: 'Blogger',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://www.wesurftheknowledge.blogspot.com", "_blank");
         },
       },{
         id: 'social-rss',
