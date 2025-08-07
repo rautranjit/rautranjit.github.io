@@ -3,8 +3,12 @@
   contents:
     - name: Full Name
       value: Ranjit Raut
+    - name: Label
+      value: An Imminent AI Scientist
     - name: Languages
-      value: English, Nepali
+      value: Nepali, English
+    - name: Summary
+      value: A Human From Earth
 
 - title: Education
   type: time_table
@@ -19,6 +23,8 @@
             - Computer Vision,
             - Natural Language Processing,
             - Reinforcement Learning,
+            - Foundation models,
+            - Graph Networks,
             - Robotics, etc.
 
     - title: SLC
@@ -59,7 +65,15 @@
         - title: Organized
           contents:
             - Workshops
-            - Events        
+            - Events    
+            
+    - title: Member and Contributor
+      institution: Kathmandu University Artificial Intelligence Club (KUAIC), Kathmandu University
+      year: 2022 - 2026
+      description:
+        - Organized various events and workshops.
+        - Volunteered multiple programmes. 
+        - Contributed to the KUAIC website.
 
     - title: Researcher
       institution: HomoDeTerra
