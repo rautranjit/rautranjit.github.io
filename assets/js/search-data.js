@@ -187,12 +187,7 @@ ninja.data = [{
             window.open("https://wesurftheknowledge.blogspot.com/2021/04/cryptocurrency-and-nepal.html", "_blank");
           
         },
-      },{id: "books-the-godfather",
-          title: 'The Godfather',
-          description: "",
-          section: "Books",handler: () => {
-              window.location.href = "/books/the_godfather/";
-            },},{id: "news-i-m-tryin-to-fit-the-curve",
+      },{id: "news-i-m-tryin-to-fit-the-curve",
           title: 'I’m tryin’ to fit the curve!',
           description: "",
           section: "News",},{id: "projects-tigermove",
