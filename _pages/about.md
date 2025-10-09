@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: An Imminent AI Scientist
+subtitle: A Human From Earth
 
 profile:
   align: right
