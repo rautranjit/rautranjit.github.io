@@ -21,7 +21,7 @@ announcements:
 latest_posts:
   enabled: true
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  limit: 5 # leave blank to include all the blog posts
 ---
 
 Hi. I’m Ranjit Raut, a scholar and practitioner of computer science, specializing in artificial intelligence. I'm currently pursuing a B.Tech in Artificial Intelligence at Kathmandu University (Class of 2026). Over the years, I've honed my expertise across multiple domains of computer science, including research & development, data structures, algorithms, system design, open-source, computer security, software development, and artificial intelligence, merging deep theoretical knowledge with practical applications to solve complex problems. My key areas of proficiency include:
