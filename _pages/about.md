@@ -32,7 +32,7 @@ Hi. I’m Ranjit Raut, a scholar and practitioner of computer science, specializ
 - **Deep Learning:** Multi-layer perceptrons, neural networks, transformers, deep generative models, deep reinforcement learning, graph neural networks, multi-modal models, and AI agents, and agentic AI.
 - **Computer Vision:** Classical computer vision techniques, convolutional neural networks, vision transformers, advanced image and video processing, 3D computer vision, and large vision models.
 - **Natural Language Processing:** Text and speech processing, recurrent neural networks (LSTM, GRU, sequence-to-sequence models), transformers, language models, large and small language models (LLM, SLM), LLMOps, retrieval-augmented generation (RAG), and agentic RAG.
-- **Data Engineering:** Data acquisition, preparation, pipeline construction, mining, data science, and effective management of big data. 
+- **Data Engineering:** Data acquisition, preparation, pipeline construction, data mining, data science, Big Data, and DataOps. 
 
 From a young age, I have been captivated by science, mathematics, technology, and philosophy, always driven by a thirst for learning and discovery. My ambition is to pioneer innovations that push the boundaries of what’s possible, leveraging my multidisciplinary skills to craft solutions that positively impact society. Currently, I am engaged in projects that apply my domain knowledge to create accessible technologies that address real-world needs.
 
