@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: AI Engineer/Researcher/Scientist
+subtitle: An Imminent AI Engineer/Researcher/Scientist
 
 profile:
   align: right
