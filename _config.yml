@@ -122,57 +122,105 @@ external_sources:
     rss_url: https://medium.com/@ranjitraut/feed
   - name: Ranjit Raut
     posts:
-      - url: https://wesurftheknowledge.blogspot.com/2021/08/what-is-artificial%20intelligence.html
-        published_date: 2021-08-14
-  - name: Ranjit Raut
-    posts:
       - url: https://wesurftheknowledge.blogspot.com/2022/04/what-is-cloud-computing.html
-        published_date: 2022-07-12
-  - name: Ranjit Raut
-    posts:
+        published_date: 2021-02-10
+      - url: https://wesurftheknowledge.blogspot.com/2022/03/what-is-data-structure-and-algorithm.html
+        published_date: 2021-03-05
       - url: https://wesurftheknowledge.blogspot.com/2022/03/what-is-nft-how-it-works.html
-        published_date: 2022-03-02
-  - name: Ranjit Raut
-    posts:
+        published_date: 2021-04-12
       - url: https://wesurftheknowledge.blogspot.com/2022/02/what-is-blog-blogger-blogging.html
-        published_date: 2022-02-03
-  - name: Ranjit Raut
-    posts:
+        published_date: 2021-05-20
       - url: https://wesurftheknowledge.blogspot.com/2021/08/what-is-augmented-reality-how-it-works.html
-        published_date: 2021-08-26
-  - name: Ranjit Raut
-    posts:
+        published_date: 2021-08-15
       - url: https://wesurftheknowledge.blogspot.com/2021/08/what-is-virtual-reality-and-how-does-i.html
-        published_date: 2021-08-08
-  - name: Ranjit Raut
-    posts:
+        published_date: 2021-08-20
       - url: https://wesurftheknowledge.blogspot.com/2021/08/what-is-deep-learning-how-does-it-work.html
-        published_date: 2021-08-03
-  - name: Ranjit Raut
-    posts:
+        published_date: 2021-08-25
       - url: https://wesurftheknowledge.blogspot.com/2021/08/what-is-machine-learning.html
-        published_date: 2021-08-16
-  - name: Ranjit Raut
-    posts:
-      - url: https://wesurftheknowledge.blogspot.com/2021/08/what-is-linux.html
-        published_date: 2021-08-03
-  - name: Ranjit Raut
-    posts:
+        published_date: 2021-08-30
+      - url: https://wesurftheknowledge.blogspot.com/2021/08/what-is-artificial%20intelligence.html
+        published_date: 2021-08-05
       - url: https://wesurftheknowledge.blogspot.com/2021/05/what-is-blockchain-technology-simple.html
-        published_date: 2021-05-17
-  - name: Ranjit Raut
-    posts:
+        published_date: 2021-05-22
       - url: https://wesurftheknowledge.blogspot.com/2021/05/what-is-internet-of-things-iot-is-it.html
-        published_date: 2021-04-25
-  - name: Ranjit Raut
-    posts:
-      - url: https://wesurftheknowledge.blogspot.com/2021/04/cryptocurrency-and-nepal.html
-        published_date: 2021-04-16
-  - name: Ranjit Raut
-    posts:
+        published_date: 2021-05-18
+      - url: https://wesurftheknowledge.blogspot.com/2023/08/how-to-install-xampp-and-set-up-php.html
+        published_date: 2021-01-15
+      - url: https://wesurftheknowledge.blogspot.com/2022/02/what%20are%20the%20best%20blogging%20platforms.html
+        published_date: 2021-06-18
+      - url: https://wesurftheknowledge.blogspot.com/2021/08/how-to-install-mingw-tools-for-cc.html
+        published_date: 2021-07-22
+      - url: https://wesurftheknowledge.blogspot.com/2021/08/how-to-create-responsive-navigation-bar.html
+        published_date: 2021-08-01
+      - url: https://wesurftheknowledge.blogspot.com/2021/08/how-to-make-website-using-html-and-css.html
+        published_date: 2021-08-10
+      - url: https://wesurftheknowledge.blogspot.com/2021/08/5-ai-personal-assistant.html
+        published_date: 2021-09-06
+      - url: https://wesurftheknowledge.blogspot.com/2021/08/10-most-dangerous-computer-viruses-.html
+        published_date: 2021-09-12
+      - url: https://wesurftheknowledge.blogspot.com/2021/08/20-blogging-tips-to-rank-your-blog-post.html
+        published_date: 2021-09-18
+      - url: https://wesurftheknowledge.blogspot.com/2021/08/what-is-pegasus-why-is-it-harmful.html
+        published_date: 2021-09-24
+      - url: https://wesurftheknowledge.blogspot.com/2021/08/10-best-search-engines-in-theworld.html
+        published_date: 2021-09-29
+      - url: https://wesurftheknowledge.blogspot.com/2021/08/what-is-dogecoin-how-does-it-work.html
+        published_date: 2021-10-04
       - url: https://wesurftheknowledge.blogspot.com/2021/08/is-linux-operating-system-or-kernel.html
-        published_date: 2021-08-23
-  
+        published_date: 2021-10-10
+      - url: https://wesurftheknowledge.blogspot.com/2021/08/what-is-python-why-is-it-so-popular.html
+        published_date: 2021-10-16
+      - url: https://wesurftheknowledge.blogspot.com/2021/08/what-is-linux.html
+        published_date: 2021-10-22
+      - url: https://wesurftheknowledge.blogspot.com/2021/08/10-most-innovative-private-space.html
+        published_date: 2021-10-28
+      - url: https://wesurftheknowledge.blogspot.com/2021/07/what-is-bitcoin-and-how-does-it-work.html
+        published_date: 2021-07-10
+      - url: https://wesurftheknowledge.blogspot.com/2021/07/challenges-of-living-on-mars-unspoken.html
+        published_date: 2021-07-15
+      - url: https://wesurftheknowledge.blogspot.com/2021/07/what-is-trusted-platform-module-tpm-you.html
+        published_date: 2021-07-20
+      - url: https://wesurftheknowledge.blogspot.com/2021/06/seo-tips-for-beginners-how-to-rank-your-blog.html
+        published_date: 2021-06-05
+      - url: https://wesurftheknowledge.blogspot.com/2021/06/windows-11-new-features-get-windows-11.html
+        published_date: 2021-06-10
+      - url: https://wesurftheknowledge.blogspot.com/2021/06/how-to-post-on-instagram-from-pc-step.html
+        published_date: 2021-06-15
+      - url: https://wesurftheknowledge.blogspot.com/2021/06/10-best-selling-video-games-of-all-time.html
+        published_date: 2021-06-20
+      - url: https://wesurftheknowledge.blogspot.com/2021/06/what-is-backlink-how-to-get-backlinks.html
+        published_date: 2021-06-25
+      - url: https://wesurftheknowledge.blogspot.com/2021/06/windows-11-news-features-release-date.html
+        published_date: 2021-06-30
+      - url: https://wesurftheknowledge.blogspot.com/2021/06/the-future-of-ev-in-nepal.html
+        published_date: 2021-06-22
+      - url: https://wesurftheknowledge.blogspot.com/2021/06/how-to-extend-life-of-your-phone-10.html
+        published_date: 2021-06-18
+      - url: https://wesurftheknowledge.blogspot.com/2021/06/how-to-start-blogging-in-nepal.html
+        published_date: 2021-06-12
+      - url: https://wesurftheknowledge.blogspot.com/2021/06/10-mobile-apps-every-tech-loving-person.html
+        published_date: 2021-06-08
+      - url: https://wesurftheknowledge.blogspot.com/2021/06/how-to-start-a-blog-in-nepal.html
+        published_date: 2021-06-03
+      - url: https://wesurftheknowledge.blogspot.com/2021/06/electric-vehicles-the-future.html
+        published_date: 2021-06-28
+      - url: https://wesurftheknowledge.blogspot.com/2021/05/what-is-affiliate-marketing-and-how.html
+        published_date: 2021-05-05
+      - url: https://wesurftheknowledge.blogspot.com/2021/05/best-linux-alternative-distributions-of.html
+        published_date: 2021-05-10
+      - url: https://wesurftheknowledge.blogspot.com/2021/05/10-free-cloud-storage-you-should-know.html
+        published_date: 2021-05-15
+      - url: https://wesurftheknowledge.blogspot.com/2021/05/7-best-blogger-templates-for-your-blog.html
+        published_date: 2021-05-20
+      - url: https://wesurftheknowledge.blogspot.com/2021/05/how-to-create-wordpress-blog.html
+        published_date: 2021-05-25
+      - url: https://wesurftheknowledge.blogspot.com/2021/05/how-to-register-free-comnp-domain-in.html
+        published_date: 2021-05-30
+      - url: https://wesurftheknowledge.blogspot.com/2021/04/10-amazing-websites-to-you-should-visit.html
+        published_date: 2021-04-12
+      - url: https://wesurftheknowledge.blogspot.com/2021/04/cryptocurrency-and-nepal.html
+        published_date: 2021-04-18
+
 
 # -----------------------------------------------------------------------------
 # Newsletter
