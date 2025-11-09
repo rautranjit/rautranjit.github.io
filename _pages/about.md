@@ -16,12 +16,12 @@ social: true # includes social icons at the bottom of the page
 announcements:
   enabled: true # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  limit: 10 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
   enabled: true
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 5 # leave blank to include all the blog posts
+  limit: 10 # leave blank to include all the blog posts
 ---
 
 Hi. I’m Ranjit Raut, a scholar and practitioner of computer science, specializing in artificial intelligence. I'm currently pursuing a B.Tech in Artificial Intelligence at Kathmandu University (Class of 2026). Over the years, I've honed my expertise across multiple domains of computer science, including research & development, artificial intelligence, data structures, algorithms, system design, open-source, computer security, and software development, merging deep theoretical knowledge with practical applications to solve complex problems. My key areas of curiosity and proficiency include:
