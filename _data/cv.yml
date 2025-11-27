@@ -48,6 +48,12 @@
 - title: Experience
   type: time_table
   contents:
+      - title: Research Fellow and Publication Lead
+      institution: Artificial Intelligence and High Performance Computing (AIHPC) Lab, Kathmandu University
+      year: 2025 - 2026
+      description:
+        - Research on artificial intelligence and high performance computing.
+        
     - title: Research Fellow and Publication Lead
       institution: Artificial Intelligence and Smart System Research (AISSR) Lab, Kathmandu University
       year: 2024 - 2025
@@ -159,6 +165,14 @@
       year: May 2022
       description: GitHub Graduation 2022 was an online graduation ceremony to celebrate graduates of the class of 2022.
 
+    - title: MDN Web Docs Contributor
+      year: October 2022
+      description: I contributed to the documentation of MDN Web Docs.
+
+    - title: Monkeytype Contributor
+      year: October 2022
+      description: I contributed to the documentation of Monkeytype.
+
     - title: GeeksforGeeks Article Contributor
       year: 2021 - 2022
       description: GeeksforGeeks is a leading platform that provides computer science resources and coding challenges for programmers and technology enthusiasts, along with interview and exam preparations for upcoming aspirants.
@@ -170,6 +184,10 @@
 - title: Honors and Awards
   type: time_table
   contents:
+      - year: Oct 2025
+      items:
+        - Hacktoberfest 2025 Hall of Fame
+        
     - year: Oct 2024
       items:
         - Hacktoberfest 2024 Hall of Fame
@@ -210,6 +228,7 @@
         - Blockchain & web3.
         - Web 3.0 & Industry 4.0.
         - IoTs
+        - High Performance Computing
 
     - title: Mathematics.
       items:
