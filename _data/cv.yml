@@ -48,7 +48,7 @@
 - title: Experience
   type: time_table
   contents:
-      - title: Research Fellow and Publication Lead
+    - title: Researcher
       institution: Artificial Intelligence and High Performance Computing (AIHPC) Lab, Kathmandu University
       year: 2025 - 2026
       description:
@@ -184,7 +184,7 @@
 - title: Honors and Awards
   type: time_table
   contents:
-      - year: Oct 2025
+    - year: Oct 2025
       items:
         - Hacktoberfest 2025 Hall of Fame
         
