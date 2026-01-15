@@ -48,6 +48,14 @@
 - title: Experience
   type: time_table
   contents:
+    - title: Coordinator
+      institution: AI CONVERGENCE,Kathmandu University Artificial Intelligence Club (KUAIC)
+      year: 2025 - 2026
+      description:
+        - Organized the AI CANVAS with workshops, training sessions, and expert talks to build foundational and emerging AI knowledge, AI CONCLAVE featuring keynote speeches, panel discussions, exhibitions, and competitions that bring academia, industry, and policymakers together, and AI CRUSADE with hackathons, project implementation, and sustained collaborations to ensure a long-term impact.
+        - Created a platform for knowledge sharing, innovation, and collaboration among Nepal’s AI ecosystem.
+        - Engaged students, researchers, professionals, and industry leaders to foster AI development and practical solutions.
+        
     - title: Researcher
       institution: Artificial Intelligence and High Performance Computing (AIHPC) Lab, Kathmandu University
       year: 2025 - 2026
