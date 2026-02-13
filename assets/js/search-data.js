@@ -586,7 +586,12 @@ ninja.data = [{
       },{id: "news-i-m-tryin-to-fit-the-curve",
           title: 'I’m tryin’ to fit the curve!',
           description: "",
-          section: "News",},{id: "projects-tigermove",
+          section: "News",},{id: "projects-agromind",
+          title: 'AgroMind',
+          description: "A complete agriculture toolkit",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/10_project/";
+            },},{id: "projects-tigermove",
           title: 'TigerMove',
           description: "A Deep Reinforcement Learning Gaming AI",
           section: "Projects",handler: () => {
