@@ -591,6 +591,11 @@ ninja.data = [{
           description: "A complete agriculture toolkit",
           section: "Projects",handler: () => {
               window.location.href = "/projects/10_project/";
+            },},{id: "projects-finfish",
+          title: 'FinFish',
+          description: "A finance tool",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/11_project/";
             },},{id: "projects-tigermove",
           title: 'TigerMove',
           description: "A Deep Reinforcement Learning Gaming AI",
