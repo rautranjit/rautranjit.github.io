@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: An Imminent AI Engineer/Researcher/Scientist
+subtitle: A Human From Earth
 
 profile:
   align: right
@@ -24,10 +24,10 @@ latest_posts:
   limit: 100 # leave blank to include all the blog posts
 ---
 
-Hi. I’m Ranjit Raut, a scholar and practitioner of computer science and engineering, specializing in artificial intelligence. I'm currently pursuing a Bachelor of Technology in Artificial Intelligence at Kathmandu University, School of Engineering. I build on my prior experience as Coordinator for AI CONVERGENCE at Kathmandu University Artificial Intelligence Club (KUAIC), Researcher at AIHPC Lab (Artificial Intelligence and High Performance Computing Laboratory), Research Fellow and Publication Lead at AISSR Lab (Artificial Intelligence and Smart System Research Laboratory), Microsoft Learn Student Ambassador at Microsoft, and Lead at HomoDeTerra, Quotesnaut, SurfTheKnowledge, and Moxcie. I’m also a former Hall of Fame contributor for DigitalOcean Hacktoberfest and have contributed to Google Summer of Code, GoogleCloudReady, Google Crowdsource, Google Maps, GitHub, Mozilla, Monkeytype, GeeksforGeeks, etc.
+Hi. I’m Ranjit Raut, a scholar and practitioner of computer science and engineering, specializing in artificial intelligence. I'm currently pursuing a Bachelor of Technology in Artificial Intelligence at Kathmandu University. I build on my prior experience as Principal Coordinator for AI CONVERGENCE at Kathmandu University Artificial Intelligence Club (KUAIC), Researcher at AIHPC Lab (Artificial Intelligence and High Performance Computing Laboratory), Research Fellow and Publication Lead at AISSR Lab (Artificial Intelligence and Smart System Research Laboratory), Microsoft Learn Student Ambassador at Microsoft, and Lead at HomoDeTerra, Quotesnaut, SurfTheKnowledge, and Moxcie. I’m also a former Hall of Fame contributor for DigitalOcean Hacktoberfest and have contributed to Google Summer of Code, GoogleCloudReady, Google Crowdsource, Google Maps, GitHub, Mozilla, Monkeytype, GeeksforGeeks, etc.
 
 Over the years, I've honed my expertise across multiple domains of computer science, including research & development, artificial intelligence, data structures, algorithms, system design, open-source, computer security, and software development, merging deep theoretical knowledge with practical applications to solve complex problems. My key areas of curiosity and proficiency include:
-- **Research & Development:** Technical writing, documentation, algorithm design and development, experiment design and execution, data analysis and interpretation, machine learning model implementation, prototype development, research publication and dissemination, literature review, collaborative research, performance testing and validation, presentation of findings, mentorship and knowledge sharing, mathematics, and staying updated with AI advancements.
+- **Research & Development:** Technical writing, documentation, algorithm design and development, experiment design and execution, data analysis and interpretation, machine learning model implementation, prototype development, research publication and dissemination, literature review, collaborative research, performance testing and validation, presentation of findings, mentorship and knowledge sharing, mathematics, and staying updated with AI and quantum advancements.
 - **Competitive Programming:** Data structures, algorithms, design & analysis of algorithms, advanced data structures, time complexity, space complexity, design principles, design patterns, and system design.
 - **Software Engineering:** Software development, System architecture, SDLC, software coding and debugging, APIs, cloud computing, DevOps, open-source contribution, penetration testing, ethical hacking, software testing, quality assurance, and DevOps.
 - **Machine Learning:** Supervised learning with parametric and non-parametric models, unsupervised learning including clustering, association rules, dimensionality reduction, & anomaly detection, along with self-supervised & semi-supervised learning paradigms, MLOps, AI Ethics, and Explainable AI.
