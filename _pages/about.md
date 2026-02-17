@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: A Human From Earth
+subtitle: ?whoami
 
 profile:
   align: right
