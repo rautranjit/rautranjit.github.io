@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: ?whoami
+subtitle: :~ sudo whoami
 
 profile:
   align: right
