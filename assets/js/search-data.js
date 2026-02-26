@@ -16,6 +16,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/blog/";
           },
+        },{id: "nav-about",
+          title: "about",
+          description: "Ranjit Raut",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/about/";
+          },
         },{id: "nav-publications",
           title: "publications",
           description: "My publications",
@@ -43,13 +50,6 @@ ninja.data = [{
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
-          },
-        },{id: "nav-about",
-          title: "about",
-          description: "Ranjit Raut",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/about/";
           },
         },{id: "post-10-most-innovative-private-space-companies-in-the-world-surftheknowledge",
         
