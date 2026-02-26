@@ -4,7 +4,7 @@ permalink: /about/
 title: about
 description: Ranjit Raut
 nav: true
-nav_order: 7
+nav_order: 2
 
 profiles:
   - align: left
