@@ -40,7 +40,7 @@ Throughout my work, I have built experience across:
 * Speech Processing & Voice Synthesis
 * Competitive Programming & DSA
 * Full-Stack Web & Mobile Development
-* Cybersecurity & Penetration Testing
+* Cloud, OS, Cybersecurity & Penetration Testing
 * Data Science & Analytics
 * Technical Research & Scientific Writing
 
