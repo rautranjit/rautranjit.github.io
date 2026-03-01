@@ -23,5 +23,25 @@ latest_posts:
   scrollable: false # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 100 # leave blank to include all the blog posts
 ---
+Hi. I'm Ranjit Raut — a scholar and practitioner of artificial intelligence, currently pursuing my undergraduate studies at Kathmandu University.
 
-Hi. I’m Ranjit Raut, a scholar and practitioner of computer science and engineering, specializing in artificial intelligence. I'm currently pursuing Artificial Intelligence at Kathmandu University. I build on my prior experience as Principal Coordinator for AI CONVERGENCE at Kathmandu University Artificial Intelligence Club (KUAIC), Researcher at AIHPC Lab (Artificial Intelligence and High Performance Computing Laboratory), Research Fellow and Publication Lead at AISSR Lab (Artificial Intelligence and Smart System Research Laboratory), Microsoft Learn Student Ambassador at Microsoft, and Lead at HomoDeTerra, Quotesnaut, SurfTheKnowledge, and Moxcie. I’m also a former Hall of Fame contributor for DigitalOcean Hacktoberfest and have contributed to Google Summer of Code, GoogleCloudReady, Google Crowdsource, Google Maps, GitHub, Mozilla, Monkeytype, and GeeksforGeeks.
+I research at the intersection of deep learning, computer vision, natural language processing, and generative AI, with a focus on building systems that work for real-world problems and solutions. On the research side, I worked as a Researcher at the AIHPC Lab and previously as a Research Fellow and Publication Lead at the AISSR Lab. On the community side, I coordinated AI CONVERGENCE at KUAIC — one of Nepal's largest student-led AI initiatives — and have served as a Microsoft Learn Student Ambassador.
+
+I've also led and contributed to teams at HomoDeTerra, Quotesnaut, SurfTheKnowledge, and Moxcie, and maintain an active open-source presence across Google Summer of Code, DigitalOcean Hacktoberfest, GoogleCloudReady, Google Crowdsource, Mozilla, Monkeytype, GeeksforGeeks, and GitHub.
+
+Throughout my work, I have built experience across:
+
+* Computer Vision, Vision Models, & Deep Learning
+* Natural Language Processing, Language Models, & Reasoning Models
+* Small/Large unimodal models & multimodal models
+* Generative AI, RAG & Agentic AI
+* Deep Reinforcement Learning & Graph Neural Networks
+* Parallel processing, Distributed Computing, & Quantum Machine Learning
+* Speech Processing & Voice Synthesis
+* Competitive Programming & DSA
+* Full-Stack Web & Mobile Development
+* Cybersecurity & Penetration Testing
+* Data Science & Analytics
+* Technical Research & Scientific Writing
+
+---
