@@ -23,9 +23,7 @@ latest_posts:
   scrollable: false # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 100 # leave blank to include all the blog posts
 ---
-Hi. I'm Ranjit Raut, a scholar and practitioner of artificial intelligence, currently pursuing undergraduate studies at Kathmandu University. 
-
-I endeavor at the intersection of computer science, mathematics, and cognitive science, with a focus on building artificial intelligence systems that address real-world problems and deliver solutions. 
+Hi. I'm Ranjit Raut, a scholar and practitioner of artificial intelligence. I endeavor at the intersection of computer science, mathematics, and cognitive science, with a focus on building artificial intelligence systems that address real-world problems and deliver solutions. 
 
 On the research side, I worked as a Researcher at the AIHPC Lab and previously as a Research Fellow and Publication Lead at the AISSR Lab. On the community side, I coordinated AI CONVERGENCE at KUAIC, one of Nepal's largest student-led AI initiatives, and have served as a Microsoft Learn Student Ambassador. I've also led and contributed to teams at HomoDeTerra, Quotesnaut, SurfTheKnowledge, and Moxcie, and maintained an active open-source presence across Google Summer of Code, DigitalOcean Hacktoberfest, GoogleCloudReady, Google Crowdsource, Mozilla, Monkeytype, GeeksforGeeks, and GitHub.
 
