@@ -23,21 +23,18 @@ latest_posts:
   scrollable: false # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 100 # leave blank to include all the blog posts
 ---
-Hi. I'm Ranjit Raut, a scholar and practitioner of artificial intelligence, currently pursuing my undergraduate studies at Kathmandu University.
+Hi. I'm Ranjit Raut, a scholar and practitioner of artificial intelligence, currently pursuing undergraduate studies at Kathmandu University. 
 
-I research at the intersection of deep learning, computer vision, natural language processing, unimodal/multimodal models, and generative AI, with a focus on building systems that work for real-world problems and solutions. On the research side, I worked as a Researcher at the AIHPC Lab and previously as a Research Fellow and Publication Lead at the AISSR Lab. On the community side, I coordinated AI CONVERGENCE at KUAIC, one of Nepal's largest student-led AI initiatives, and have served as a Microsoft Learn Student Ambassador.
-
-I've also led and contributed to teams at HomoDeTerra, Quotesnaut, SurfTheKnowledge, and Moxcie, and maintained an active open-source presence across Google Summer of Code, DigitalOcean Hacktoberfest, GoogleCloudReady, Google Crowdsource, Mozilla, Monkeytype, GeeksforGeeks, and GitHub.
+I endeavor at the intersection of computer science, mathematics, and cognitive science, with a focus on building artificial intelligence systems that address real-world problems and deliver solutions. On the research side, I worked as a Researcher at the AIHPC Lab and previously as a Research Fellow and Publication Lead at the AISSR Lab. On the community side, I coordinated AI CONVERGENCE at KUAIC, one of Nepal's largest student-led AI initiatives, and have served as a Microsoft Learn Student Ambassador. I've also led and contributed to teams at HomoDeTerra, Quotesnaut, SurfTheKnowledge, and Moxcie, and maintained an active open-source presence across Google Summer of Code, DigitalOcean Hacktoberfest, GoogleCloudReady, Google Crowdsource, Mozilla, Monkeytype, GeeksforGeeks, and GitHub.
 
 Throughout my work, I have built experience across:
 
-* Computer Vision, Vision Models, & Deep Learning
-* Natural Language Processing, Language Models, & Reasoning Models
-* Small/Large unimodal models & multimodal models
+* Computer Vision, Natural Language Processing, & Deep Learning
+* Small/Large unimodal, multimodal, & reasoning models
 * Generative AI, RAG & Agentic AI
-* Deep Reinforcement Learning & Graph Neural Networks
-* Parallel processing, Distributed Computing, & Quantum Machine Learning
-* Speech Processing & Voice Synthesis
+* Deep Reinforcement Learning & Geometric Deep Learning
+* Parallel processing, Distributed Computing, & Quantum AI
+* Speech Processing, Recognition, & Synthesis
 * Competitive Programming & DSA
 * Full-Stack Web & Mobile Development
 * Cloud, OS, Cybersecurity, & Penetration Testing
