@@ -9,6 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
+  <p>explore & experiment</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -25,20 +26,18 @@ latest_posts:
 ---
 Hi. I'm Ranjit Raut, a scholar and practitioner of artificial intelligence, currently pursuing undergraduate studies at Kathmandu University. 
 
-I endeavor at the intersection of computer science, mathematics, and cognitive science, with a focus on building artificial intelligence systems that address real-world problems and deliver solutions. On the research side, I worked as a Researcher at the AIHPC Lab and previously as a Research Fellow and Publication Lead at the AISSR Lab. On the community side, I coordinated AI CONVERGENCE at KUAIC, one of Nepal's largest student-led AI initiatives, and have served as a Microsoft Learn Student Ambassador. I've also led and contributed to teams at HomoDeTerra, Quotesnaut, SurfTheKnowledge, and Moxcie, and maintained an active open-source presence across Google Summer of Code, DigitalOcean Hacktoberfest, GoogleCloudReady, Google Crowdsource, Mozilla, Monkeytype, GeeksforGeeks, and GitHub.
+I endeavor at the intersection of computer science, mathematics, and cognitive science, with a focus on building artificial intelligence systems that address real-world problems and deliver solutions. 
 
-Throughout my work, I have built experience across:
+On the research side, I worked as a Researcher at the AIHPC Lab and previously as a Research Fellow and Publication Lead at the AISSR Lab. On the community side, I coordinated AI CONVERGENCE at KUAIC, one of Nepal's largest student-led AI initiatives, and have served as a Microsoft Learn Student Ambassador. I've also led and contributed to teams at HomoDeTerra, Quotesnaut, SurfTheKnowledge, and Moxcie, and maintained an active open-source presence across Google Summer of Code, DigitalOcean Hacktoberfest, GoogleCloudReady, Google Crowdsource, Mozilla, Monkeytype, GeeksforGeeks, and GitHub.
 
-* Computer Vision, Natural Language Processing, & Deep Learning
+Throughout my work, I research and experiment across various topics such as:
+
+* Statistical machine learning & Deep Learning
+* Computer Vision & Natural Language Processing
 * Small/Large unimodal, multimodal, & reasoning models
-* Generative AI, RAG & Agentic AI
+* Generative AI, AI Agents, RAG & Agentic AI
 * Deep Reinforcement Learning & Geometric Deep Learning
 * Parallel processing, Distributed Computing, & Quantum AI
 * Speech Processing, Recognition, & Synthesis
-* Competitive Programming & DSA
-* Full-Stack Web & Mobile Development
-* Cloud, OS, Cybersecurity, & Penetration Testing
-* Data Science, Data Engineering, & Data Analytics
-* Technical Research & Scientific Writing
-
+* Spatial AI, Deep Generative Models, & Anomaly Detection
 ---
