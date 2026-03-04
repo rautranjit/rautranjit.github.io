@@ -7,7 +7,7 @@ subtitle: :~ sudo whoami
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info: >
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
@@ -39,5 +39,3 @@ Throughout my work, I research and experiment across various topics such as:
 * Parallel processing, Distributed Computing, & Quantum AI
 * Speech Processing, Recognition, & Synthesis
 * Spatial AI, Deep Generative Models, & Anomaly Detection
-  
----
