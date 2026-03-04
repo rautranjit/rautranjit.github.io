@@ -10,7 +10,7 @@ contact_note: > # contact note
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Hi. I'm Ranjit Raut.
 footer_text: > # footer text
-keywords: ranjit-raut, ranjit, theranjitraut, rautranjit # add your own keywords or leave empty
+keywords: ranjit-raut, ranjit, raut, theranjitraut, rautranjit # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: favicon.ico # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
@@ -82,7 +82,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: ranjit-raut # blog_name will be displayed in your blog page
+blog_name: a-human-from-earth # blog_name will be displayed in your blog page
 blog_description: a place where I share my thoughts
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
