@@ -27,8 +27,7 @@ Hi. I'm Ranjit Raut, a scholar and practitioner of artificial intelligence. I en
 
 On the research side, I worked as a Researcher at the AIHPC Lab and previously as a Research Fellow and Publication Lead at the AISSR Lab. On the community side, I coordinated AI CONVERGENCE at KUAIC, one of Nepal's largest student-led AI initiatives, and have served as a Microsoft Learn Student Ambassador. I've also led and contributed to teams at HomoDeTerra, Quotesnaut, SurfTheKnowledge, and Moxcie, and maintained an active open-source presence across Google Summer of Code, DigitalOcean Hacktoberfest, GoogleCloudReady, Google Crowdsource, Mozilla, Monkeytype, GeeksforGeeks, and GitHub.
 
-Throughout my work, I research and experiment across various topics such as:
-
+Currently, I innovate by blending research, exploration, and experimentation across areas such as:
 * Statistical machine learning & Deep Learning
 * Computer Vision & Natural Language Processing
 * Small/Large unimodal, multimodal, & reasoning models
