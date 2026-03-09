@@ -35,6 +35,6 @@ Currently, I research, explore, experiment, and innovate across areas such as:
 * Deep Reinforcement Learning & Geometric Deep Learning
 * Spatial AI, deep generative models, & anomaly detection
 * Cloud, Parallel processing & Distributed Computing
-* Speech processing, recognition, & synthesis
+* Speech/Video processing, recognition, & synthesis
 * Foundational models, state-space model, & world models
 * AutoML, Quantum AI, & Quantum Machine Learning
