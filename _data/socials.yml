@@ -16,21 +16,21 @@
 # lattes_id: # your ID on Lattes (Brazilian Lattes CV)
 # leetcode_id: # your LeetCode id
 # mastodon_username: # your mastodon instance+username in the format instance.tld/@username
-# medium_username: # your Medium username
 # osf_id: # your OSF ID
 # pinterest_id: # your pinterest id
 # publons_id: # your ID on Publons
 # quora_username: # your Quora username
 scholar_userid: Kok0OGgAAAAJ # your Google Scholar ID
-# orcid_id: 0009-0007-7844-1227 # your ORCID ID
+orcid_id: 0009-0007-7844-1227 # your ORCID ID
 # research_gate_profile: Ranjit-Raut # your profile on ResearchGate
-kaggle_id: theranjitraut
+# kaggle_id: theranjitraut
 github_username: theranjitraut # your GitHub user name
 linkedin_username: theranjitraut # your LinkedIn user name
-facebook_id: theranjitraut # your facebook id
 x_username: theranjitraut # your X handle
 youtube_id: ranjitraut # your youtube channel id (youtube.com/@<youtube_id>)
+facebook_id: theranjitraut # your facebook id
 instagram_id: theranjitraut # your instagram id
+medium_username: ranjitraut # your Medium username
 email: hello@ranjitraut.com.np # your email address
 # blogger_url: https://www.wesurftheknowledge.blogspot.com # your blogger URL
 # rss_icon: true # comment this line to hide the RSS icon
