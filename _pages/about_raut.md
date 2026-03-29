@@ -1,4 +1,16 @@
-Hi. I'm Ranjit Raut. I build on my prior experience as Principal Coordinator for AI CONVERGENCE at Kathmandu University Artificial Intelligence Club (KUAIC), Researcher at AIHPC Lab (Artificial Intelligence and High Performance Computing Laboratory), Research Fellow and Publication Lead at AISSR Lab (Artificial Intelligence and Smart System Research Laboratory), Microsoft Learn Student Ambassador at Microsoft, and Lead at HomoDeTerra, Quotesnaut, SurfTheKnowledge, and Moxcie. I’m also a former Hall of Fame contributor for DigitalOcean Hacktoberfest and have contributed to Google Summer of Code, GoogleCloudReady, Google Crowdsource, Google Maps, GitHub, Mozilla, Monkeytype, and GeeksforGeeks.
+Hi. I'm Ranjit Raut. I build on my prior experience as Principal Coordinator for AI CONVERGENCE (AI CANVAS, AI CONCLAVE, AI CRUSADE) at Kathmandu University Artificial Intelligence Club (KUAIC), Researcher at AIHPC Lab (Artificial Intelligence and High Performance Computing Laboratory), Research Fellow and Publication Lead at AISSR Lab (Artificial Intelligence and Smart System Research Laboratory), Microsoft Learn Student Ambassador at Microsoft, and Lead at HomoDeTerra, Quotesnaut, SurfTheKnowledge, and Moxcie. I’m also a former Hall of Fame contributor for DigitalOcean Hacktoberfest and have contributed to Google Summer of Code, GoogleCloudReady, Google Crowdsource, Google Maps, GitHub, Mozilla, Monkeytype, and GeeksforGeeks.
+
+Currently, I research, explore, experiment, and innovate across areas such as:
+* Machine learning, neural networks, & deep learning
+* Computer Vision & Natural Language Processing
+* Small/Large Unimodal, multimodal, & reasoning models
+* Generative AI, AI Agents, RAG, Agentic AI, & Exp. AI
+* Deep Reinforcement Learning & Geometric Deep Learning
+* Spatial AI, deep generative models, & anomaly detection
+* Cloud, Parallel processing & Distributed Computing
+* Speech/Video processing, recognition, & synthesis
+* Foundational models, state-space model, & world models
+* AutoML, Quantum AI, & Quantum Machine Learning
 
 Over the years, I've honed my expertise across multiple domains of computer science, including research & development, artificial intelligence, data structures, algorithms, system design, open-source, computer security, and software development, merging deep theoretical knowledge with practical applications to solve complex problems. My key areas of curiosity and proficiency include:
 - **Research & Development:** Technical writing, documentation, algorithm design and development, experiment design and execution, data analysis and interpretation, machine learning model implementation, prototype development, research publication and dissemination, literature review, collaborative research, performance testing and validation, presentation of findings, mentorship and knowledge sharing, and advancing mathematics, AI, and quantum computing.
