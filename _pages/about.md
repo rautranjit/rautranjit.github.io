@@ -25,16 +25,4 @@ latest_posts:
 ---
 Hi. I'm Ranjit Raut, a scholar and practitioner of artificial intelligence. I endeavor at the intersection of computer science, mathematics, cognitive science, and physics, with a focus on building artificial intelligence systems that address real-world problems and deliver solutions. 
 
-On the research side, I worked as a Researcher at the AIHPC Lab and previously as a Research Fellow and Publication Lead at the AISSR Lab. On the community side, I coordinated AI CONVERGENCE at KUAIC, one of Nepal's largest student-led AI initiatives, and have served as a Microsoft Learn Student Ambassador. I've also led and contributed to teams at HomoDeTerra, Quotesnaut, SurfTheKnowledge, and Moxcie, and maintained an active open-source presence across Google Summer of Code, DigitalOcean Hacktoberfest, GoogleCloudReady, Google Crowdsource, Mozilla, Monkeytype, GeeksforGeeks, and GitHub.
-
-Currently, I research, explore, experiment, and innovate across areas such as:
-* Machine learning, neural networks, & deep learning
-* Computer Vision & Natural Language Processing
-* Small/Large Unimodal, multimodal, & reasoning models
-* Generative AI, AI Agents, RAG, Agentic AI, & Exp. AI
-* Deep Reinforcement Learning & Geometric Deep Learning
-* Spatial AI, deep generative models, & anomaly detection
-* Cloud, Parallel processing & Distributed Computing
-* Speech/Video processing, recognition, & synthesis
-* Foundational models, state-space model, & world models
-* AutoML, Quantum AI, & Quantum Machine Learning
+On the research side, I worked as a Researcher at the AIHPC Lab and previously as a Research Fellow and Publication Lead at the AISSR Lab. On the community side, I coordinated AI CONVERGENCE at KUAIC, one of Nepal's largest student-led AI initiatives, served as a Microsoft Learn Student Ambassador, and maintained an active open-source presence across Google Summer of Code, DigitalOcean Hacktoberfest, GoogleCloudReady, Google Crowdsource, Mozilla, Monkeytype, GeeksforGeeks, and GitHub. On the industry side, I've also led and contributed to teams at HomoDeTerra, Quotesnaut, SurfTheKnowledge, and Moxcie.
