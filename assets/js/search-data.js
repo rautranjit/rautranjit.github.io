@@ -613,9 +613,9 @@ ninja.data = [{
           description: "Futebol Video Analytics and Reporting System",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
-            },},{id: "projects-deep-one-class-svdd-anomaly-detection",
-          title: 'Deep One class SVDD Anomaly Detection',
-          description: "A deep one class classification",
+            },},{id: "projects-sagedocs",
+          title: 'SageDocs',
+          description: "An advanced RAG-system",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
             },},{id: "projects-nccds",
