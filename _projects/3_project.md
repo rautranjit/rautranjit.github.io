@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Deep One class SVDD Anomaly Detection
-description: A deep one class classification
+title: SageDocs
+description: An advanced RAG-system
 img: assets/img/7.jpg
 redirect: https://unsplash.com
 importance: 3
