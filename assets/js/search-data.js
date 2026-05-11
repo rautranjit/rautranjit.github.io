@@ -603,6 +603,11 @@ ninja.data = [{
           description: "A finance tool",
           section: "Projects",handler: () => {
               window.location.href = "/projects/11_project/";
+            },},{id: "projects-rypton",
+          title: 'Rypton',
+          description: "A computer vision labeling tool",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/12_project/";
             },},{id: "projects-tigermove",
           title: 'TigerMove',
           description: "A Deep Reinforcement Learning Gaming AI",
