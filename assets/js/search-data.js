@@ -616,7 +616,7 @@ ninja.data = [{
           title: 'Session on &amp;quot;4-Day Python × Git Bootcamp&amp;quot;',
           description: "",
           section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
+              window.location.href = "/news/announcement_1/";
             },},{id: "projects-agromind",
           title: 'AgroMind',
           description: "A complete agriculture toolkit",
