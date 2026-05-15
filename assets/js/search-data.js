@@ -609,11 +609,6 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_0/";
-            },},{id: "news-announcement-sample1",
-          title: 'Announcement_sample1',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_sample1/";
             },},{id: "news-session-on-quot-4-day-python-git-bootcamp-quot",
           title: 'Session on &amp;quot;4-Day Python × Git Bootcamp&amp;quot;',
           description: "",
