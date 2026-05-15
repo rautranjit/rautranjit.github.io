@@ -614,6 +614,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_1/";
+            },},{id: "news-session-on-quot-what-is-research-quot",
+          title: 'Session on &amp;quot;What is Research?&amp;quot;',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_3/";
             },},{id: "projects-agromind",
           title: 'AgroMind',
           description: "A complete agriculture toolkit",
