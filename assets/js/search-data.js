@@ -597,7 +597,12 @@ ninja.data = [{
             window.open("https://wesurftheknowledge.blogspot.com/2023/08/how-to-install-xampp-and-set-up-php.html", "_blank");
           
         },
-      },{id: "news-i-m-tryin-to-fit-the-curve",
+      },{id: "news-session-on-quot-introduction-to-git-and-github-quot",
+          title: 'Session on &amp;quot;Introduction to Git and GitHub&amp;quot;',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_0/";
+            },},{id: "news-i-m-tryin-to-fit-the-curve",
           title: 'I’m tryin’ to fit the curve!',
           description: "",
           section: "News",},{id: "projects-agromind",
