@@ -1,6 +1,6 @@
 ---
 layout: course
-title: Featured in National News during AI CONCLAVE 2026.
+title: Featured in National Interview.
 description: This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.
 instructor: Prof. Data
 year: 2024
