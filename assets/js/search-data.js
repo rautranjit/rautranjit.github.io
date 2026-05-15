@@ -619,8 +619,8 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-",
-          title: '',
+            },},{id: "news-session-on-quot-ai-essentials-from-basics-to-applications-quot",
+          title: 'Session on &amp;quot;AI Essentials - From Basics to Applications&amp;quot;',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_3/";
