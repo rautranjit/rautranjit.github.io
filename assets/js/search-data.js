@@ -602,10 +602,22 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_0/";
-            },},{id: "news-i-m-tryin-to-fit-the-curve",
-          title: 'I’m tryin’ to fit the curve!',
+            },},{id: "news-session-on-quot-introduction-to-git-and-github-quot",
+          title: 'Session on &amp;quot;Introduction to Git and GitHub&amp;quot;',
           description: "",
-          section: "News",},{id: "projects-agromind",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_sample2/";
+            },},{id: "news-announcement-sample1",
+          title: 'Announcement_sample1',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_sample1/";
+            },},{id: "news-session-on-quot-4-day-python-git-bootcamp-quot",
+          title: 'Session on &amp;quot;4-Day Python × Git Bootcamp&amp;quot;',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_2/";
+            },},{id: "projects-agromind",
           title: 'AgroMind',
           description: "A complete agriculture toolkit",
           section: "Projects",handler: () => {
