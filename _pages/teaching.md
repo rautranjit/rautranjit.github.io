@@ -6,3 +6,4 @@ description: where I was featured
 nav: true
 nav_order: 7
 ---
+{% include courses.liquid %}
