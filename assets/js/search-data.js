@@ -618,7 +618,7 @@ ninja.data = [{
           title: 'Session on &amp;quot;What is Research?&amp;quot;',
           description: "",
           section: "News",handler: () => {
-              window.location.href = "/news/announcement_3/";
+              window.location.href = "/news/announcement_2/";
             },},{id: "projects-agromind",
           title: 'AgroMind',
           description: "A complete agriculture toolkit",
