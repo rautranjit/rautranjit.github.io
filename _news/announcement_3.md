@@ -6,7 +6,7 @@ inline: false
 related_posts: false
 ---
 
-I gave a session on "AI Essentials - From Basics to Applications" at Sankalpa College, Banepa. The workshop introduced Python, Git basics, GitHub workflows, and practical version control concepts for beginners.
+I gave a session on "AI Essentials - From Basics to Applications" at Sankalpa College, Kavre. The workshop introduced Python, Git basics, GitHub workflows, and practical version control concepts for beginners.
 
 ## Session highlights
 
