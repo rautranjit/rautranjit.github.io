@@ -58,6 +58,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/news/";
           },
+        },{id: "nav-featured",
+          title: "featured",
+          description: "where I was featured",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/featured/";
+          },
         },{id: "post-10-most-innovative-private-space-companies-in-the-world-surftheknowledge",
         
           title: '10 Most Innovative Private Space Companies In The World - SurfTheKnowledge <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
@@ -602,11 +609,6 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_0/";
-            },},{id: "news-session-on-quot-introduction-to-git-and-github-quot",
-          title: 'Session on &amp;quot;Introduction to Git and GitHub&amp;quot;',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_sample2/";
             },},{id: "news-announcement-sample1",
           title: 'Announcement_sample1',
           description: "",
