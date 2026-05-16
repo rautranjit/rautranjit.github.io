@@ -622,6 +622,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_3/";
+            },},{id: "news-featured-in-international-stories",
+          title: 'Featured in International Stories',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_6/";
             },},{id: "news-session-on-quot-data-and-artificial-intelligence-quot",
           title: 'Session on &amp;quot;Data and Artificial Intelligence&amp;quot;',
           description: "",
