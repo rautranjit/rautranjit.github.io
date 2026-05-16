@@ -597,12 +597,7 @@ ninja.data = [{
             window.open("https://wesurftheknowledge.blogspot.com/2023/08/how-to-install-xampp-and-set-up-php.html", "_blank");
           
         },
-      },{id: "news-featured-in-national-news",
-          title: 'Featured in National News',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_5/";
-            },},{id: "news-session-on-quot-introduction-to-git-and-github-quot",
+      },{id: "news-session-on-quot-introduction-to-git-and-github-quot",
           title: 'Session on &amp;quot;Introduction to Git and GitHub&amp;quot;',
           description: "",
           section: "News",handler: () => {
@@ -622,6 +617,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_3/";
+            },},{id: "news-featured-in-national-news",
+          title: 'Featured in National News',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_5/";
             },},{id: "news-featured-in-international-stories",
           title: 'Featured in International Stories',
           description: "",
