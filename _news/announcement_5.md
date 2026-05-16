@@ -1,12 +1,12 @@
 ---
 layout: post
 title: Featured in National News
-date: 2015-11-07 16:11:00-0400
+date: 2026-01-10 16:11:00-0400
 inline: false
 related_posts: false
 ---
 
-During AI CONCLAVE 2026, the 2nd phase of AI CONVERGENCE, Kantipur TV featured us through their social media.
+During AI CONCLAVE 2026, the 2nd phase of AI CONVERGENCE, I gave an interview to Jyoti Shrestha and Sajana Baral from Kantipur TV. They featured us on their social media.
 
 ---
 
