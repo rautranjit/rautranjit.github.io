@@ -27,19 +27,19 @@
             - Graph Networks,
             - Robotics, etc.
 
-    - title: SLC
+    - title: Higher Secondary Level
       institution: Trinity International SS/College
       year: 2020-22
       description:
         - Studied Physics, Mathematics, and Computer Science.
 
-    - title: SEE
+    - title: Secondary Level
       institution: Udayasi English Secondary School
       year: 2018-22
       description:
         - Studied Science, Mathematics, and Computer Science.
 
-    - title: BLE
+    - title: Basic Level
       institution: Mulberry English Secondary School
       year: 2006-18
       description:
@@ -48,7 +48,7 @@
 - title: Experience
   type: time_table
   contents:
-    - title: Coordinator
+    - title: Principal Coordinator
       institution: AI CONVERGENCE, Kathmandu University Artificial Intelligence Club (KUAIC)
       year: 2025 - 2026
       description:
@@ -56,11 +56,11 @@
         - Created a platform for knowledge sharing, innovation, and collaboration among Nepal’s AI ecosystem.
         - Engaged students, researchers, professionals, and industry leaders to foster AI development and practical solutions.
         
-    - title: Researcher
+    - title: Research Assistant
       institution: Artificial Intelligence and High Performance Computing (AIHPC) Lab, Kathmandu University
       year: 2025 - 2026
       description:
-        - Research on artificial intelligence and high performance computing.
+        - A student-led research lab for research on artificial intelligence and high-performance computing.
         
     - title: Research Fellow and Publication Lead
       institution: Artificial Intelligence and Smart System Research (AISSR) Lab, Kathmandu University
