@@ -4,11 +4,11 @@
     - name: Full Name
       value: Ranjit Raut
     - name: Label
-      value: Human
+      value: Scholar and Practitioner
     - name: Languages
       value: Nepali, English
     - name: Summary
-      value: A Human From Earth
+      value: A Human from Earth who possesses biological intelligence and is discovering artificial intelligence.
 
 - title: Education
   type: time_table
