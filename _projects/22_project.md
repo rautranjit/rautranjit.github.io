@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Lemma
-description: A voice-cloning system
+title: Hawkeye
+description: A sport analysis system with computer vision.
 img: assets/img/6.jpg
 importance: 4
 category: fun

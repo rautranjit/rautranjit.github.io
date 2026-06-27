@@ -2,7 +2,7 @@
 layout: page
 title: FaceARCs
 description: A 3D face reconstruciton system
-img:
+img: assets/img/3.jpg
 importance: 4
 category: fun
 ---

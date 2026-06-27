@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Lemma
-description: A voice-cloning system
-img: assets/img/6.jpg
+title: NepLEGIT
+description: A SLM for Nepali Legal System
+img: assets/img/9.jpg
 importance: 4
 category: fun
 ---

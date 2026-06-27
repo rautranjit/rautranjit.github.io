@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Lemma
-description: A voice-cloning system
-img: assets/img/6.jpg
+title: SELF
+description: SELF (Smile, Emotion, Laugh, Face) is an AI-enabled application that is capable of recognizing face.
+img: assets/img/1.jpg
 importance: 4
 category: fun
 ---

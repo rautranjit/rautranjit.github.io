@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Lemma
-description: A voice-cloning system
+title: SanoDevkota
+description: A poetry generation small model for Devkota poems.
 img: assets/img/6.jpg
 importance: 4
 category: fun

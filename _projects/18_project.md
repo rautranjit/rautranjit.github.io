@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Lemma
-description: A voice-cloning system
+title: whataalu
+description: A potato disease classification system using Multimodal Models
 img: assets/img/6.jpg
 importance: 4
 category: fun

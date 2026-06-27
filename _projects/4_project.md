@@ -1,8 +1,8 @@
 ---
 layout: page
-title: NCCDS
-description: Nepalese Currency Counterfeit Detection System
-img:
+title: deepOCC
+description: A classical CDS and Deep SVDD One-class classification for Anomaly Detection
+img: assets/img/3.jpg
 importance: 3
 category: fun
 ---

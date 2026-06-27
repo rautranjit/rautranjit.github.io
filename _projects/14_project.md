@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Lemma
-description: A voice-cloning system
-img: assets/img/6.jpg
+title: LipiHCR
+description: An efficient recognition system for multi-script using CNN-Graph-Transformer
+img: assets/img/1.jpg
 importance: 4
 category: fun
 ---

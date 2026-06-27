@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Lemma
-description: A voice-cloning system
-img: assets/img/6.jpg
+title: Emit
+description: A medical imaging tool for generating high-quality images.
+img: assets/img/7.jpg
 importance: 4
 category: fun
 ---

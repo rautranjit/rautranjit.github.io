@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Lemma
-description: A voice-cloning system
+title: SCARLET
+description: A structured computer science research paper analysis and reasoning tool
 img: assets/img/6.jpg
 importance: 4
 category: fun

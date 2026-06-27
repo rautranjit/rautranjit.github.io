@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Lemma
-description: A voice-cloning system
-img: assets/img/6.jpg
+title: Segmen
+description: A plant disease detection and segmentation system
+img: assets/img/9.jpg
 importance: 4
 category: fun
 ---

@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Lemma
-description: A voice-cloning system
-img: assets/img/6.jpg
+title: agex
+description: A LLM-based RAG system for agriculture.
+img: assets/img/7.jpg
 importance: 4
 category: fun
 ---

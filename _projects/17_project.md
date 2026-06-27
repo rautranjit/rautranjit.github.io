@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Lemma
-description: A voice-cloning system
-img: assets/img/6.jpg
+title: 3dclass
+description: Viral pneumonia classifciation in computer tomography (CT) scans using 3D CNN
+img: assets/img/7.jpg
 importance: 4
 category: fun
 ---

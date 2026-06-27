@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Lemma
-description: A voice-cloning system
-img: assets/img/6.jpg
+title: myViA
+description: A virtual assistant using Python text-to-speech library and speech recognition
+img: assets/img/9.jpg
 importance: 4
 category: fun
 ---
