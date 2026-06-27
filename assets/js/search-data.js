@@ -647,11 +647,71 @@ ninja.data = [{
           description: "A computer vision labeling tool",
           section: "Projects",handler: () => {
               window.location.href = "/projects/12_project/";
+            },},{id: "projects-scarlet",
+          title: 'SCARLET',
+          description: "A structured computer science research paper analysis and reasoning tool",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/13_project/";
+            },},{id: "projects-lipihcr",
+          title: 'LipiHCR',
+          description: "An efficient recognition system for multi-script using CNN-Graph-Transformer",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/14_project/";
+            },},{id: "projects-neplegit",
+          title: 'NepLEGIT',
+          description: "A SLM for Nepali Legal System",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/15_project/";
+            },},{id: "projects-sanodevkota",
+          title: 'SanoDevkota',
+          description: "A poetry generation small model for Devkota poems.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/16_project/";
+            },},{id: "projects-3dclass",
+          title: '3dclass',
+          description: "Viral pneumonia classifciation in computer tomography (CT) scans using 3D CNN",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/17_project/";
+            },},{id: "projects-whataalu",
+          title: 'whataalu',
+          description: "A potato disease classification system using Multimodal Models",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/18_project/";
+            },},{id: "projects-agex",
+          title: 'agex',
+          description: "A LLM-based RAG system for agriculture.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/19_project/";
             },},{id: "projects-tigermove",
           title: 'TigerMove',
           description: "A Deep Reinforcement Learning Gaming AI",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
+            },},{id: "projects-segmen",
+          title: 'Segmen',
+          description: "A plant disease detection and segmentation system",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/20_project/";
+            },},{id: "projects-emit",
+          title: 'Emit',
+          description: "A medical imaging tool for generating high-quality images.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/21_project/";
+            },},{id: "projects-hawkeye",
+          title: 'Hawkeye',
+          description: "A sport analysis system with computer vision.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/22_project/";
+            },},{id: "projects-self",
+          title: 'SELF',
+          description: "SELF (Smile, Emotion, Laugh, Face) is an AI-enabled application that is capable of recognizing face.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/23_project/";
+            },},{id: "projects-myvia",
+          title: 'myViA',
+          description: "A virtual assistant using Python text-to-speech library and speech recognition",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/24_project/";
             },},{id: "projects-futvar",
           title: 'FutVAR',
           description: "Futebol Video Analytics and Reporting System",
@@ -662,9 +722,9 @@ ninja.data = [{
           description: "An advanced RAG-system",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
-            },},{id: "projects-nccds",
-          title: 'NCCDS',
-          description: "Nepalese Currency Counterfeit Detection System",
+            },},{id: "projects-deepocc",
+          title: 'deepOCC',
+          description: "A classical CDS and Deep SVDD One-class classification for Anomaly Detection",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
             },},{id: "projects-photon",
@@ -687,8 +747,8 @@ ninja.data = [{
           description: "A GAN-based synthetic tool",
           section: "Projects",handler: () => {
               window.location.href = "/projects/8_project/";
-            },},{id: "projects-voicefusion",
-          title: 'VoiceFusion',
+            },},{id: "projects-lemma",
+          title: 'Lemma',
           description: "A voice-cloning system",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
