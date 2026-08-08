@@ -69,11 +69,11 @@ ninja.data = [{
             window.open("https://wesurftheknowledge.blogspot.com/2021/08/10-most-innovative-private-space.html", "_blank");
           
         },
-      },{id: "post-https-wesurftheknowledge-blogspot-com-2021-08-what-is-linux-html",
+      },{id: "post-what-is-linux-world-39-s-most-popular-operating-system-surftheknowledge",
         
-          title: 'https://wesurftheknowledge.blogspot.com/2021/08/what-is-linux.html <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+          title: 'What is Linux? World&#39;s Most Popular Operating System - SurfTheKnowledge <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
         
-        description: "",
+        description: "What is Linux? History Of Linux | World&#39;s Most Popular Operating System, What are the famous distributions of Linux, Is Linux an Operating System or..",
         section: "Posts",
         handler: () => {
           
@@ -223,11 +223,11 @@ ninja.data = [{
             window.open("https://wesurftheknowledge.blogspot.com/2021/08/how-to-make-website-using-html-and-css.html", "_blank");
           
         },
-      },{id: "post-https-wesurftheknowledge-blogspot-com-2021-08-what-is-artificial-20intelligence-html",
+      },{id: "post-artificial-intelligence-what-it-is-and-how-it-works-surftheknowledge",
         
-          title: 'https://wesurftheknowledge.blogspot.com/2021/08/what-is-artificial%20intelligence.html <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+          title: 'Artificial Intelligence: What It Is And How It Works - SurfTheKnowledge <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
         
-        description: "",
+        description: "What is Artificial Intelligence? AI, artificial intelligence in healthcare, artificial intelligence, machine learning, and deep learning, How it works",
         section: "Posts",
         handler: () => {
           
@@ -410,11 +410,11 @@ ninja.data = [{
             window.open("https://wesurftheknowledge.blogspot.com/2021/06/10-mobile-apps-every-tech-loving-person.html", "_blank");
           
         },
-      },{id: "post-https-wesurftheknowledge-blogspot-com-2021-06-seo-tips-for-beginners-how-to-rank-your-blog-html",
+      },{id: "post-seo-tips-for-beginners-how-to-rank-your-blog-on-google-surftheknowledge",
         
-          title: 'https://wesurftheknowledge.blogspot.com/2021/06/seo-tips-for-beginners-how-to-rank-your-blog.html <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+          title: 'SEO Tips For Beginners - How To Rank Your Blog On Google -... <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
         
-        description: "",
+        description: "SEO Tips For Beginners - How To Rank Your Blog On Google | Get to seo tips 2021seo tips for new websiteongoing seo tipssecret seo tips",
         section: "Posts",
         handler: () => {
           
@@ -487,11 +487,11 @@ ninja.data = [{
             window.open("https://wesurftheknowledge.blogspot.com/2021/05/7-best-blogger-templates-for-your-blog.html", "_blank");
           
         },
-      },{id: "post-https-wesurftheknowledge-blogspot-com-2021-05-what-is-internet-of-things-iot-is-it-html",
+      },{id: "post-what-is-the-internet-of-things-iot-how-does-it-work-surftheknowledge",
         
-          title: 'https://wesurftheknowledge.blogspot.com/2021/05/what-is-internet-of-things-iot-is-it.html <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+          title: 'What is the Internet of Things (IoT)? How Does It Work? - SurfTheKnowledge... <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
         
-        description: "",
+        description: "internet of things meaning, internet of things definition,internet of things examples, internet of things applications, internet of things explained.",
         section: "Posts",
         handler: () => {
           
