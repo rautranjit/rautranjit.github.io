@@ -69,11 +69,11 @@ ninja.data = [{
             window.open("https://wesurftheknowledge.blogspot.com/2021/08/10-most-innovative-private-space.html", "_blank");
           
         },
-      },{id: "post-https-wesurftheknowledge-blogspot-com-2021-08-what-is-linux-html",
+      },{id: "post-what-is-linux-world-39-s-most-popular-operating-system-surftheknowledge",
         
-          title: 'https://wesurftheknowledge.blogspot.com/2021/08/what-is-linux.html <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+          title: 'What is Linux? World&#39;s Most Popular Operating System - SurfTheKnowledge <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
         
-        description: "",
+        description: "What is Linux? History Of Linux | World&#39;s Most Popular Operating System, What are the famous distributions of Linux, Is Linux an Operating System or..",
         section: "Posts",
         handler: () => {
           
@@ -91,22 +91,22 @@ ninja.data = [{
             window.open("https://wesurftheknowledge.blogspot.com/2021/08/what-is-python-why-is-it-so-popular.html", "_blank");
           
         },
-      },{id: "post-https-wesurftheknowledge-blogspot-com-2021-08-is-linux-operating-system-or-kernel-html",
+      },{id: "post-is-linux-an-operating-system-or-a-kernel-surftheknowledge",
         
-          title: 'https://wesurftheknowledge.blogspot.com/2021/08/is-linux-operating-system-or-kernel.html <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+          title: 'Is Linux an Operating System or a Kernel? - SurfTheKnowledge <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
         
-        description: "",
+        description: "Is Linux an Operating System or a Kernel? Difference between Operating System and Kernel, What is Kernel?, What are the types of Kernel? Brief Exp...",
         section: "Posts",
         handler: () => {
           
             window.open("https://wesurftheknowledge.blogspot.com/2021/08/is-linux-operating-system-or-kernel.html", "_blank");
           
         },
-      },{id: "post-https-wesurftheknowledge-blogspot-com-2021-08-what-is-dogecoin-how-does-it-work-html",
+      },{id: "post-what-is-dogecoin-how-does-it-work-surftheknowledge",
         
-          title: 'https://wesurftheknowledge.blogspot.com/2021/08/what-is-dogecoin-how-does-it-work.html <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+          title: 'What Is Dogecoin? How Does It Work? - SurfTheKnowledge <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
         
-        description: "",
+        description: "What Is Dogecoin? How Does It Work? Dogecoin news, Dogecoin memes, Dogecoin Market Value, How has Dogecoin fared in the market? What is the value of..",
         section: "Posts",
         handler: () => {
           
@@ -124,11 +124,11 @@ ninja.data = [{
             window.open("https://wesurftheknowledge.blogspot.com/2021/08/10-best-search-engines-in-theworld.html", "_blank");
           
         },
-      },{id: "post-https-wesurftheknowledge-blogspot-com-2021-08-what-is-pegasus-why-is-it-harmful-html",
+      },{id: "post-what-is-pegasus-why-is-it-harmful-surftheknowledge",
         
-          title: 'https://wesurftheknowledge.blogspot.com/2021/08/what-is-pegasus-why-is-it-harmful.html <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+          title: 'What is Pegasus? Why is It Harmful? - SurfTheKnowledge <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
         
-        description: "",
+        description: "What is Pegasus? Why is it harmful? | Why you should care?, What is Pegasus Spyware? How to protect from Pegasus,  Who is using Pegasus, What is .....",
         section: "Posts",
         handler: () => {
           
@@ -234,11 +234,11 @@ ninja.data = [{
             window.open("https://wesurftheknowledge.blogspot.com/2021/08/what-is-artificial%20intelligence.html", "_blank");
           
         },
-      },{id: "post-https-wesurftheknowledge-blogspot-com-2021-08-how-to-create-responsive-navigation-bar-html",
+      },{id: "post-how-to-create-responsive-navigation-bar-using-html-css-amp-javascript-surftheknowledge",
         
-          title: 'https://wesurftheknowledge.blogspot.com/2021/08/how-to-create-responsive-navigation-bar.html <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+          title: 'How to Create Responsive Navigation Bar Using HTML, CSS, &amp; JavaScript - SurfTheKnowledge... <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
         
-        description: "",
+        description: "How to Create Responsive Navigation Bar Using HTML CSS &amp; JavaScript",
         section: "Posts",
         handler: () => {
           
@@ -256,9 +256,9 @@ ninja.data = [{
             window.open("https://wesurftheknowledge.blogspot.com/2021/08/how-to-install-mingw-tools-for-cc.html", "_blank");
           
         },
-      },{id: "post-https-wesurftheknowledge-blogspot-com-2021-07-what-is-trusted-platform-module-tpm-you-html",
+      },{id: "post-what-is-trusted-platform-module-tpm-you-won-39-t-be-able-to-use-windows-11-if-you-don-39-t-have-tpm-on-your-pc-surftheknowledge",
         
-          title: 'https://wesurftheknowledge.blogspot.com/2021/07/what-is-trusted-platform-module-tpm-you.html <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+          title: 'What is Trusted Platform Module (TPM)? You won&#39;t be able to use Windows... <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
         
         description: "",
         section: "Posts",
@@ -278,33 +278,33 @@ ninja.data = [{
             window.open("https://wesurftheknowledge.blogspot.com/2021/07/challenges-of-living-on-mars-unspoken.html", "_blank");
           
         },
-      },{id: "post-https-wesurftheknowledge-blogspot-com-2021-07-what-is-bitcoin-and-how-does-it-work-html",
+      },{id: "post-what-is-bitcoin-how-does-it-work-world-39-s-first-cryptocurrency-surftheknowledge",
         
-          title: 'https://wesurftheknowledge.blogspot.com/2021/07/what-is-bitcoin-and-how-does-it-work.html <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+          title: 'What Is Bitcoin? How Does It Work? World&#39;s First Cryptocurrency - SurfTheKnowledge <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
         
-        description: "",
+        description: "What is Bitcoin, And How Does It Work? | World&#39;s First Cryptocurrency. What is Bitcoin Mining? History of Bitcoin. Who created Bitcoin? Is Bitcoin....",
         section: "Posts",
         handler: () => {
           
             window.open("https://wesurftheknowledge.blogspot.com/2021/07/what-is-bitcoin-and-how-does-it-work.html", "_blank");
           
         },
-      },{id: "post-https-wesurftheknowledge-blogspot-com-2021-06-windows-11-news-features-release-date-html",
+      },{id: "post-windows-11-features-release-date-and-everything-you-need-to-know-surftheknowledge",
         
-          title: 'https://wesurftheknowledge.blogspot.com/2021/06/windows-11-news-features-release-date.html <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+          title: 'Windows 11: Features, Release Date, And Everything You Need To Know - SurfTheKnowledge... <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
         
-        description: "",
+        description: "Windows 11 News, Features, Release Date, And Everything You Need To Know",
         section: "Posts",
         handler: () => {
           
             window.open("https://wesurftheknowledge.blogspot.com/2021/06/windows-11-news-features-release-date.html", "_blank");
           
         },
-      },{id: "post-https-wesurftheknowledge-blogspot-com-2021-06-electric-vehicles-the-future-html",
+      },{id: "post-what-is-electric-vehicle-ev-how-is-it-different-than-gasoline-vehicle-surftheknowledge",
         
-          title: 'https://wesurftheknowledge.blogspot.com/2021/06/electric-vehicles-the-future.html <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+          title: 'What is Electric Vehicle (EV)? How Is It Different Than Gasoline Vehicle? -... <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
         
-        description: "",
+        description: "Electric Vehicles: The Future of Transportation. The world is slowly shifting to renewable energy sources. If you are new to EVs.....................",
         section: "Posts",
         handler: () => {
           
@@ -322,22 +322,22 @@ ninja.data = [{
             window.open("https://wesurftheknowledge.blogspot.com/2021/06/what-is-backlink-how-to-get-backlinks.html", "_blank");
           
         },
-      },{id: "post-https-wesurftheknowledge-blogspot-com-2021-06-the-future-of-ev-in-nepal-html",
+      },{id: "post-how-is-the-future-of-electric-vehicles-in-nepal-evs-in-nepal-surftheknowledge",
         
-          title: 'https://wesurftheknowledge.blogspot.com/2021/06/the-future-of-ev-in-nepal.html <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+          title: 'How is the Future of Electric Vehicles In Nepal? EVs In Nepal -... <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
         
-        description: "",
+        description: "Electric Vehicles in Nepal | The Future Of EV In Nepal Electric vehicle (EV) is a trending topic in Nepal. EVs are creating a sensational............",
         section: "Posts",
         handler: () => {
           
             window.open("https://wesurftheknowledge.blogspot.com/2021/06/the-future-of-ev-in-nepal.html", "_blank");
           
         },
-      },{id: "post-https-wesurftheknowledge-blogspot-com-2021-06-10-best-selling-video-games-of-all-time-html",
+      },{id: "post-10-best-selling-video-games-of-all-time-surftheknowledge",
         
-          title: 'https://wesurftheknowledge.blogspot.com/2021/06/10-best-selling-video-games-of-all-time.html <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+          title: '10 Best Selling Video Games of All Time - SurfTheKnowledge <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
         
-        description: "",
+        description: "Highest-grossing video games of all time,Best-selling games of all time 2020most popular video games of all timebest-selling video game franchise..",
         section: "Posts",
         handler: () => {
           
@@ -388,11 +388,11 @@ ninja.data = [{
             window.open("https://wesurftheknowledge.blogspot.com/2021/06/how-to-start-blogging-in-nepal.html", "_blank");
           
         },
-      },{id: "post-https-wesurftheknowledge-blogspot-com-2021-06-windows-11-new-features-get-windows-11-html",
+      },{id: "post-how-to-get-windows-11-upgrade-in-free-windows-11-surftheknowledge",
         
-          title: 'https://wesurftheknowledge.blogspot.com/2021/06/windows-11-new-features-get-windows-11.html <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+          title: 'How To Get Windows 11 Upgrade In Free? Windows 11 - SurfTheKnowledge <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
         
-        description: "",
+        description: "Windows 11 New Features | Get Windows 11 Upgrade Free: How To Get Windows 11 For Free. Microsoft announced the release of Windows 11 on June 24......",
         section: "Posts",
         handler: () => {
           
@@ -410,33 +410,33 @@ ninja.data = [{
             window.open("https://wesurftheknowledge.blogspot.com/2021/06/10-mobile-apps-every-tech-loving-person.html", "_blank");
           
         },
-      },{id: "post-https-wesurftheknowledge-blogspot-com-2021-06-seo-tips-for-beginners-how-to-rank-your-blog-html",
+      },{id: "post-seo-tips-for-beginners-how-to-rank-your-blog-on-google-surftheknowledge",
         
-          title: 'https://wesurftheknowledge.blogspot.com/2021/06/seo-tips-for-beginners-how-to-rank-your-blog.html <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+          title: 'SEO Tips For Beginners - How To Rank Your Blog On Google -... <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
         
-        description: "",
+        description: "SEO Tips For Beginners - How To Rank Your Blog On Google | Get to seo tips 2021seo tips for new websiteongoing seo tipssecret seo tips",
         section: "Posts",
         handler: () => {
           
             window.open("https://wesurftheknowledge.blogspot.com/2021/06/seo-tips-for-beginners-how-to-rank-your-blog.html", "_blank");
           
         },
-      },{id: "post-https-wesurftheknowledge-blogspot-com-2021-06-how-to-start-a-blog-in-nepal-html",
+      },{id: "post-how-to-start-a-blog-in-nepal-surftheknowledge",
         
-          title: 'https://wesurftheknowledge.blogspot.com/2021/06/how-to-start-a-blog-in-nepal.html <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+          title: 'How To Start A Blog In Nepal? - SurfTheKnowledge <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
         
-        description: "",
+        description: "How to start a blog in Nepal? How to earn money from blog in Nepal? How to start blogging in Nepal?",
         section: "Posts",
         handler: () => {
           
             window.open("https://wesurftheknowledge.blogspot.com/2021/06/how-to-start-a-blog-in-nepal.html", "_blank");
           
         },
-      },{id: "post-https-wesurftheknowledge-blogspot-com-2021-05-how-to-register-free-comnp-domain-in-html",
+      },{id: "post-how-to-register-free-com-np-domain-in-nepal-surftheknowledge",
         
-          title: 'https://wesurftheknowledge.blogspot.com/2021/05/how-to-register-free-comnp-domain-in.html <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+          title: 'How To Register Free .com.np Domain In Nepal? - SurfTheKnowledge <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
         
-        description: "",
+        description: "How to register .com.np domain in Nepal, free domain without any cost",
         section: "Posts",
         handler: () => {
           
@@ -509,11 +509,11 @@ ninja.data = [{
             window.open("https://wesurftheknowledge.blogspot.com/2021/05/10-free-cloud-storage-you-should-know.html", "_blank");
           
         },
-      },{id: "post-https-wesurftheknowledge-blogspot-com-2021-05-best-linux-alternative-distributions-of-html",
+      },{id: "post-what-are-the-best-linux-alternative-distributions-of-windows-operating-system-surftheknowledge",
         
-          title: 'https://wesurftheknowledge.blogspot.com/2021/05/best-linux-alternative-distributions-of.html <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+          title: 'What Are The Best Linux Alternative Distributions Of Windows Operating System? - SurfTheKnowledge... <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
         
-        description: "",
+        description: "Best Linux Alternative Distributions of Windows OS | Which is the best alternative for Windows OS? | SurftheKnowledge",
         section: "Posts",
         handler: () => {
           
@@ -531,9 +531,9 @@ ninja.data = [{
             window.open("https://wesurftheknowledge.blogspot.com/2021/05/what-is-affiliate-marketing-and-how.html", "_blank");
           
         },
-      },{id: "post-https-wesurftheknowledge-blogspot-com-2021-04-cryptocurrency-and-nepal-html",
+      },{id: "post-what-is-cryptocurrency-how-does-it-work-surftheknowledge",
         
-          title: 'https://wesurftheknowledge.blogspot.com/2021/04/cryptocurrency-and-nepal.html <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+          title: 'What is Cryptocurrency? How Does It Work? - SurfTheKnowledge <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
         
         description: "",
         section: "Posts",
@@ -553,9 +553,9 @@ ninja.data = [{
             window.open("https://wesurftheknowledge.blogspot.com/2022/03/what-is-nft-how-it-works.html", "_blank");
           
         },
-      },{id: "post-https-wesurftheknowledge-blogspot-com-2021-04-10-amazing-websites-to-you-should-visit-html",
+      },{id: "post-10-useful-websites-that-will-help-you-in-your-daily-life-surftheknowledge",
         
-          title: 'https://wesurftheknowledge.blogspot.com/2021/04/10-amazing-websites-to-you-should-visit.html <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+          title: '10 Useful Websites That Will Help You In Your Daily Life - SurfTheKnowledge... <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
         
         description: "",
         section: "Posts",
