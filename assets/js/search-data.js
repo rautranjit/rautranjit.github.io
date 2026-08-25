@@ -168,11 +168,11 @@ ninja.data = [{
             window.open("https://wesurftheknowledge.blogspot.com/2021/08/5-ai-personal-assistant.html", "_blank");
           
         },
-      },{id: "post-what-is-machine-learning-how-does-it-work-surftheknowledge",
+      },{id: "post-https-wesurftheknowledge-blogspot-com-2021-08-what-is-machine-learning-html",
         
-          title: 'What is Machine Learning? How Does It Work? - SurfTheKnowledge <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+          title: 'https://wesurftheknowledge.blogspot.com/2021/08/what-is-machine-learning.html <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
         
-        description: "What is Machine Learning? How does it work? What are the difference between Artificial Intelligence, Machine Learning, and Deep Learning, Machine.....",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -190,33 +190,33 @@ ninja.data = [{
             window.open("https://wesurftheknowledge.blogspot.com/2021/08/what-is-deep-learning-how-does-it-work.html", "_blank");
           
         },
-      },{id: "post-what-is-virtual-reality-vr-and-how-does-it-work-surftheknowledge",
+      },{id: "post-https-wesurftheknowledge-blogspot-com-2021-08-what-is-virtual-reality-and-how-does-i-html",
         
-          title: 'What is Virtual Reality (VR) and How does it work? - SurfTheKnowledge <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+          title: 'https://wesurftheknowledge.blogspot.com/2021/08/what-is-virtual-reality-and-how-does-i.html <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
         
-        description: "What is Virtual Reality (VR) and How does it work?, Types Of Virtual Reality, Applications Of Virtual Reality, Difference between Augmented Reality...",
+        description: "",
         section: "Posts",
         handler: () => {
           
             window.open("https://wesurftheknowledge.blogspot.com/2021/08/what-is-virtual-reality-and-how-does-i.html", "_blank");
           
         },
-      },{id: "post-what-is-augmented-reality-how-does-it-work-surftheknowledge",
+      },{id: "post-https-wesurftheknowledge-blogspot-com-2021-08-what-is-augmented-reality-how-it-works-html",
         
-          title: 'What is Augmented Reality? How does it work? - SurfTheKnowledge <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+          title: 'https://wesurftheknowledge.blogspot.com/2021/08/what-is-augmented-reality-how-it-works.html <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
         
-        description: "What is Augmented Reality? How does it work? Difference between Virtual Reality and Augmented Reality, AR Vs VR, Applications of Augmented Reality....",
+        description: "",
         section: "Posts",
         handler: () => {
           
             window.open("https://wesurftheknowledge.blogspot.com/2021/08/what-is-augmented-reality-how-it-works.html", "_blank");
           
         },
-      },{id: "post-how-to-make-a-website-using-html-and-css-surftheknowledge",
+      },{id: "post-https-wesurftheknowledge-blogspot-com-2021-08-how-to-make-website-using-html-and-css-html",
         
-          title: 'How To Make A Website Using HTML And CSS - SurfTheKnowledge <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+          title: 'https://wesurftheknowledge.blogspot.com/2021/08/how-to-make-website-using-html-and-css.html <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
         
-        description: "How To Make A Website Using HTML And CSS",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -465,11 +465,11 @@ ninja.data = [{
             window.open("https://wesurftheknowledge.blogspot.com/2021/05/what-is-blockchain-technology-simple.html", "_blank");
           
         },
-      },{id: "post-what-is-a-blog-what-is-blogging-surftheknowledge",
+      },{id: "post-https-wesurftheknowledge-blogspot-com-2022-02-what-is-blog-blogger-blogging-html",
         
-          title: 'What is A Blog? What is Blogging? - SurfTheKnowledge <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+          title: 'https://wesurftheknowledge.blogspot.com/2022/02/what-is-blog-blogger-blogging.html <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
         
-        description: "What is Blog, Blogger, Blogger? What are the free blogging platforms? Get to know about all the things about how to start blog, blogging and be a blog",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -542,11 +542,11 @@ ninja.data = [{
             window.open("https://wesurftheknowledge.blogspot.com/2021/04/cryptocurrency-and-nepal.html", "_blank");
           
         },
-      },{id: "post-what-is-nft-how-does-nft-work-pros-and-cons-of-nft-surftheknowledge",
+      },{id: "post-https-wesurftheknowledge-blogspot-com-2022-03-what-is-nft-how-it-works-html",
         
-          title: 'What is NFT? How does NFT work? Pros and Cons of NFT -... <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+          title: 'https://wesurftheknowledge.blogspot.com/2022/03/what-is-nft-how-it-works.html <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
         
-        description: "What is NFT? How does NFT work? What are the advantage and disadvantage of NFT? What is Non-fungible Tokens? How do Non-fungible Tokens work?",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -575,11 +575,11 @@ ninja.data = [{
             window.open("https://wesurftheknowledge.blogspot.com/2022/03/what-is-data-structure-and-algorithm.html", "_blank");
           
         },
-      },{id: "post-cloud-computing-what-it-is-types-and-services-surftheknowledge",
+      },{id: "post-https-wesurftheknowledge-blogspot-com-2022-04-what-is-cloud-computing-html",
         
-          title: 'Cloud Computing: What It Is, Types, and Services - SurfTheKnowledge <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+          title: 'https://wesurftheknowledge.blogspot.com/2022/04/what-is-cloud-computing.html <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
         
-        description: "What Is Cloud Computing? What Are The Types Of Cloud Computing? What is IaaS, PaaS, and SaaS? What are the pros and cons of cloud computing &amp; future",
+        description: "",
         section: "Posts",
         handler: () => {
           
