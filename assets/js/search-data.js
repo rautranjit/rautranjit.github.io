@@ -278,11 +278,11 @@ ninja.data = [{
             window.open("https://wesurftheknowledge.blogspot.com/2021/07/challenges-of-living-on-mars-unspoken.html", "_blank");
           
         },
-      },{id: "post-https-wesurftheknowledge-blogspot-com-2021-07-what-is-bitcoin-and-how-does-it-work-html",
+      },{id: "post-what-is-bitcoin-how-does-it-work-world-39-s-first-cryptocurrency-surftheknowledge",
         
-          title: 'https://wesurftheknowledge.blogspot.com/2021/07/what-is-bitcoin-and-how-does-it-work.html <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+          title: 'What Is Bitcoin? How Does It Work? World&#39;s First Cryptocurrency - SurfTheKnowledge <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
         
-        description: "",
+        description: "What is Bitcoin, And How Does It Work? | World&#39;s First Cryptocurrency. What is Bitcoin Mining? History of Bitcoin. Who created Bitcoin? Is Bitcoin....",
         section: "Posts",
         handler: () => {
           
