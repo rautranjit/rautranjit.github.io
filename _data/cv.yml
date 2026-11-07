@@ -8,7 +8,7 @@
     - name: Languages
       value: Nepali, English
     - name: Summary
-      value: A Human from Earth who possesses natural intelligence and is on an odyssey of discovering artificial intelligence.
+      value: A Human from Earth who possesses Natural Intelligence and is on an odyssey of discovering Artificial Intelligence.
 
 - title: Education
   type: time_table
@@ -22,16 +22,16 @@
           contents:
             - Computer Vision,
             - Natural Language Processing,
-            - Reinforcement Learning,
-            - Foundation models,
-            - Graph Networks,
+            - Machine Learning,
+            - Deep Learning,
+            - Neural Networks,
             - Robotics, etc.
 
     - title: Higher Secondary Level
       institution: Trinity International SS/College
       year: 2020-22
       description:
-        - Studied Physics, Mathematics, and Computer Science.
+        - Studied Physics, Chemistry, Mathematics, and Computer Science.
 
     - title: Secondary Level
       institution: Udayasi English Secondary School
@@ -48,6 +48,12 @@
 - title: Experience
   type: time_table
   contents:
+    - title: R&D
+      institution: Wiseyak Inc.
+      year: 2026 - 2027
+      description:
+        - I research and develop artificial intelligence systems.
+        
     - title: Research Intern
       institution: Information and Language Processing Research Lab (ILPRL), Kathmandu University
       year: 2026 - 2027
