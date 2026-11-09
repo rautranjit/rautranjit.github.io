@@ -6,7 +6,7 @@ inline: false
 related_posts: false
 ---
 
-During AI CONCLAVE 2026, the 2nd phase of AI CONVERGENCE, I gave an interview to Jyoti Shrestha and Sajana Baral from Kantipur TV. They featured us on their social media.
+During AI CONCLAVE 2026, the 2nd phase of AI CONVERGENCE, I gave an interview to two journalists from Kantipur TV. They featured us on their social media.
 
 ---
 
