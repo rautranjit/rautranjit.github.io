@@ -6,7 +6,7 @@ inline: false
 related_posts: false
 ---
 
-I gave an interview to Professor Anna Barford from the University of Cambridge regarding the use cases of large language models in the healthcare and current situation of its implications in Nepal.
+I gave an interview to a Professor from the University of Cambridge regarding the use cases of large language models in the healthcare and current situation of its implications in Nepal.
 
 ---
 
