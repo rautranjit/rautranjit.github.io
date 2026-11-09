@@ -69,22 +69,22 @@ ninja.data = [{
             window.open("https://wesurftheknowledge.blogspot.com/2021/08/10-most-innovative-private-space.html", "_blank");
           
         },
-      },{id: "post-what-is-linux-world-39-s-most-popular-operating-system-surftheknowledge",
+      },{id: "post-https-wesurftheknowledge-blogspot-com-2021-08-what-is-linux-html",
         
-          title: 'What is Linux? World&#39;s Most Popular Operating System - SurfTheKnowledge <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+          title: 'https://wesurftheknowledge.blogspot.com/2021/08/what-is-linux.html <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
         
-        description: "What is Linux? History Of Linux | World&#39;s Most Popular Operating System, What are the famous distributions of Linux, Is Linux an Operating System or..",
+        description: "",
         section: "Posts",
         handler: () => {
           
             window.open("https://wesurftheknowledge.blogspot.com/2021/08/what-is-linux.html", "_blank");
           
         },
-      },{id: "post-https-wesurftheknowledge-blogspot-com-2021-08-what-is-python-why-is-it-so-popular-html",
+      },{id: "post-what-is-python-programming-language-what-are-its-uses-complete-roadmap-surftheknowledge",
         
-          title: 'https://wesurftheknowledge.blogspot.com/2021/08/what-is-python-why-is-it-so-popular.html <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+          title: 'What is Python Programming Language? What are Its Uses? [Complete Roadmap] - SurfTheKnowledge... <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
         
-        description: "",
+        description: "What is python? What is python used for? What are the advantages of python? Python Complete Roadmap, Python Tutorial, why python is better than other",
         section: "Posts",
         handler: () => {
           
@@ -135,11 +135,11 @@ ninja.data = [{
             window.open("https://wesurftheknowledge.blogspot.com/2021/08/what-is-pegasus-why-is-it-harmful.html", "_blank");
           
         },
-      },{id: "post-20-blogging-tips-to-rank-your-blog-post-surftheknowledge",
+      },{id: "post-https-wesurftheknowledge-blogspot-com-2021-08-20-blogging-tips-to-rank-your-blog-post-html",
         
-          title: '20 Blogging Tips To Rank Your Blog Post - SurfTheKnowledge <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+          title: 'https://wesurftheknowledge.blogspot.com/2021/08/20-blogging-tips-to-rank-your-blog-post.html <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
         
-        description: "20 Blogging Tips To Rank Your Blog Post, 20 Blogging Techniques To Rank Your Post On Popular Search Engine, Blogging Tips and Techniques, How to......",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -278,11 +278,11 @@ ninja.data = [{
             window.open("https://wesurftheknowledge.blogspot.com/2021/07/challenges-of-living-on-mars-unspoken.html", "_blank");
           
         },
-      },{id: "post-what-is-bitcoin-how-does-it-work-world-39-s-first-cryptocurrency-surftheknowledge",
+      },{id: "post-https-wesurftheknowledge-blogspot-com-2021-07-what-is-bitcoin-and-how-does-it-work-html",
         
-          title: 'What Is Bitcoin? How Does It Work? World&#39;s First Cryptocurrency - SurfTheKnowledge <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+          title: 'https://wesurftheknowledge.blogspot.com/2021/07/what-is-bitcoin-and-how-does-it-work.html <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
         
-        description: "What is Bitcoin, And How Does It Work? | World&#39;s First Cryptocurrency. What is Bitcoin Mining? History of Bitcoin. Who created Bitcoin? Is Bitcoin....",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -399,11 +399,11 @@ ninja.data = [{
             window.open("https://wesurftheknowledge.blogspot.com/2021/06/windows-11-new-features-get-windows-11.html", "_blank");
           
         },
-      },{id: "post-10-mobile-apps-every-tech-loving-person-should-be-using-surftheknowledge",
+      },{id: "post-https-wesurftheknowledge-blogspot-com-2021-06-10-mobile-apps-every-tech-loving-person-html",
         
-          title: '10 Mobile Apps Every Tech-Loving Person Should Be Using - SurfTheKnowledge <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+          title: 'https://wesurftheknowledge.blogspot.com/2021/06/10-mobile-apps-every-tech-loving-person.html <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
         
-        description: "In this article, we list top 10 must-have android apps that is best apps for 2021. You must use these apps to increase your tech..useful mobile apps",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -421,11 +421,11 @@ ninja.data = [{
             window.open("https://wesurftheknowledge.blogspot.com/2021/06/seo-tips-for-beginners-how-to-rank-your-blog.html", "_blank");
           
         },
-      },{id: "post-how-to-start-a-blog-in-nepal-surftheknowledge",
+      },{id: "post-https-wesurftheknowledge-blogspot-com-2021-06-how-to-start-a-blog-in-nepal-html",
         
-          title: 'How To Start A Blog In Nepal? - SurfTheKnowledge <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+          title: 'https://wesurftheknowledge.blogspot.com/2021/06/how-to-start-a-blog-in-nepal.html <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
         
-        description: "How to start a blog in Nepal? How to earn money from blog in Nepal? How to start blogging in Nepal?",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -454,22 +454,22 @@ ninja.data = [{
             window.open("https://wesurftheknowledge.blogspot.com/2021/05/how-to-create-wordpress-blog.html", "_blank");
           
         },
-      },{id: "post-https-wesurftheknowledge-blogspot-com-2021-05-what-is-blockchain-technology-simple-html",
+      },{id: "post-what-is-blockchain-technology-how-does-it-work-surftheknowledge",
         
-          title: 'https://wesurftheknowledge.blogspot.com/2021/05/what-is-blockchain-technology-simple.html <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+          title: 'What is Blockchain Technology? How Does It Work? - SurfTheKnowledge <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
         
-        description: "",
+        description: "what is blockchain technology explained briefly, explain how it works, blockchain definition and  why is it popular, blockchain and Nepal",
         section: "Posts",
         handler: () => {
           
             window.open("https://wesurftheknowledge.blogspot.com/2021/05/what-is-blockchain-technology-simple.html", "_blank");
           
         },
-      },{id: "post-what-is-a-blog-what-is-blogging-surftheknowledge",
+      },{id: "post-https-wesurftheknowledge-blogspot-com-2022-02-what-is-blog-blogger-blogging-html",
         
-          title: 'What is A Blog? What is Blogging? - SurfTheKnowledge <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+          title: 'https://wesurftheknowledge.blogspot.com/2022/02/what-is-blog-blogger-blogging.html <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
         
-        description: "What is Blog, Blogger, Blogger? What are the free blogging platforms? Get to know about all the things about how to start blog, blogging and be a blog",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -542,11 +542,11 @@ ninja.data = [{
             window.open("https://wesurftheknowledge.blogspot.com/2021/04/cryptocurrency-and-nepal.html", "_blank");
           
         },
-      },{id: "post-https-wesurftheknowledge-blogspot-com-2022-03-what-is-nft-how-it-works-html",
+      },{id: "post-what-is-nft-how-does-nft-work-pros-and-cons-of-nft-surftheknowledge",
         
-          title: 'https://wesurftheknowledge.blogspot.com/2022/03/what-is-nft-how-it-works.html <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+          title: 'What is NFT? How does NFT work? Pros and Cons of NFT -... <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
         
-        description: "",
+        description: "What is NFT? How does NFT work? What are the advantage and disadvantage of NFT? What is Non-fungible Tokens? How do Non-fungible Tokens work?",
         section: "Posts",
         handler: () => {
           
