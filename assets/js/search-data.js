@@ -102,11 +102,11 @@ ninja.data = [{
             window.open("https://wesurftheknowledge.blogspot.com/2021/08/is-linux-operating-system-or-kernel.html", "_blank");
           
         },
-      },{id: "post-https-wesurftheknowledge-blogspot-com-2021-08-what-is-dogecoin-how-does-it-work-html",
+      },{id: "post-what-is-dogecoin-how-does-it-work-surftheknowledge",
         
-          title: 'https://wesurftheknowledge.blogspot.com/2021/08/what-is-dogecoin-how-does-it-work.html <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+          title: 'What Is Dogecoin? How Does It Work? - SurfTheKnowledge <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
         
-        description: "",
+        description: "What Is Dogecoin? How Does It Work? Dogecoin news, Dogecoin memes, Dogecoin Market Value, How has Dogecoin fared in the market? What is the value of..",
         section: "Posts",
         handler: () => {
           
@@ -124,11 +124,11 @@ ninja.data = [{
             window.open("https://wesurftheknowledge.blogspot.com/2021/08/10-best-search-engines-in-theworld.html", "_blank");
           
         },
-      },{id: "post-what-is-pegasus-why-is-it-harmful-surftheknowledge",
+      },{id: "post-https-wesurftheknowledge-blogspot-com-2021-08-what-is-pegasus-why-is-it-harmful-html",
         
-          title: 'What is Pegasus? Why is It Harmful? - SurfTheKnowledge <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+          title: 'https://wesurftheknowledge.blogspot.com/2021/08/what-is-pegasus-why-is-it-harmful.html <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
         
-        description: "What is Pegasus? Why is it harmful? | Why you should care?, What is Pegasus Spyware? How to protect from Pegasus,  Who is using Pegasus, What is .....",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -256,9 +256,9 @@ ninja.data = [{
             window.open("https://wesurftheknowledge.blogspot.com/2021/08/how-to-install-mingw-tools-for-cc.html", "_blank");
           
         },
-      },{id: "post-https-wesurftheknowledge-blogspot-com-2021-07-what-is-trusted-platform-module-tpm-you-html",
+      },{id: "post-what-is-trusted-platform-module-tpm-you-won-39-t-be-able-to-use-windows-11-if-you-don-39-t-have-tpm-on-your-pc-surftheknowledge",
         
-          title: 'https://wesurftheknowledge.blogspot.com/2021/07/what-is-trusted-platform-module-tpm-you.html <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+          title: 'What is Trusted Platform Module (TPM)? You won&#39;t be able to use Windows... <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
         
         description: "",
         section: "Posts",
@@ -267,11 +267,11 @@ ninja.data = [{
             window.open("https://wesurftheknowledge.blogspot.com/2021/07/what-is-trusted-platform-module-tpm-you.html", "_blank");
           
         },
-      },{id: "post-https-wesurftheknowledge-blogspot-com-2021-07-challenges-of-living-on-mars-unspoken-html",
+      },{id: "post-what-are-the-challenges-of-living-on-mars-challenges-on-colonization-of-mars-surftheknowledge",
         
-          title: 'https://wesurftheknowledge.blogspot.com/2021/07/challenges-of-living-on-mars-unspoken.html <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+          title: 'What Are The Challenges of Living on Mars? Challenges On Colonization of Mars... <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
         
-        description: "",
+        description: "Challenges of living on Mars: The Unspoken Truth | Challenges On Colonization of Mars, Colonizing Mars, Colonized Mars, Colonize on Mars, Mars Colo..",
         section: "Posts",
         handler: () => {
           
@@ -311,11 +311,11 @@ ninja.data = [{
             window.open("https://wesurftheknowledge.blogspot.com/2021/06/electric-vehicles-the-future.html", "_blank");
           
         },
-      },{id: "post-https-wesurftheknowledge-blogspot-com-2021-06-what-is-backlink-how-to-get-backlinks-html",
+      },{id: "post-what-is-a-backlink-how-to-get-backlinks-and-why-you-need-them-surftheknowledge",
         
-          title: 'https://wesurftheknowledge.blogspot.com/2021/06/what-is-backlink-how-to-get-backlinks.html <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+          title: 'What is a Backlink? How to Get Backlinks And Why You Need Them?... <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
         
-        description: "",
+        description: "What is a Backlink?  How to Get Backlinks And Why You Need Them? and the basics of SEO backlinks. How to make Quality Backlinks, Procedure...........",
         section: "Posts",
         handler: () => {
           
@@ -333,11 +333,11 @@ ninja.data = [{
             window.open("https://wesurftheknowledge.blogspot.com/2021/06/the-future-of-ev-in-nepal.html", "_blank");
           
         },
-      },{id: "post-10-best-selling-video-games-of-all-time-surftheknowledge",
+      },{id: "post-https-wesurftheknowledge-blogspot-com-2021-06-10-best-selling-video-games-of-all-time-html",
         
-          title: '10 Best Selling Video Games of All Time - SurfTheKnowledge <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+          title: 'https://wesurftheknowledge.blogspot.com/2021/06/10-best-selling-video-games-of-all-time.html <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
         
-        description: "Highest-grossing video games of all time,Best-selling games of all time 2020most popular video games of all timebest-selling video game franchise..",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -377,33 +377,33 @@ ninja.data = [{
             window.open("https://wesurftheknowledge.blogspot.com/2021/06/how-to-post-on-instagram-from-pc-step.html", "_blank");
           
         },
-      },{id: "post-https-wesurftheknowledge-blogspot-com-2021-06-how-to-start-blogging-in-nepal-html",
+      },{id: "post-how-to-create-a-free-blog-in-google-blogger-surftheknowledge",
         
-          title: 'https://wesurftheknowledge.blogspot.com/2021/06/how-to-start-blogging-in-nepal.html <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+          title: 'How To Create A Free Blog In Google Blogger? - SurfTheKnowledge <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
         
-        description: "",
+        description: "How To Start Blogging In Nepal For Beginners? Does one need to start a blog the correct way? We all know that beginning a blog is often an alarming...",
         section: "Posts",
         handler: () => {
           
             window.open("https://wesurftheknowledge.blogspot.com/2021/06/how-to-start-blogging-in-nepal.html", "_blank");
           
         },
-      },{id: "post-https-wesurftheknowledge-blogspot-com-2021-06-windows-11-new-features-get-windows-11-html",
+      },{id: "post-how-to-get-windows-11-upgrade-in-free-windows-11-surftheknowledge",
         
-          title: 'https://wesurftheknowledge.blogspot.com/2021/06/windows-11-new-features-get-windows-11.html <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+          title: 'How To Get Windows 11 Upgrade In Free? Windows 11 - SurfTheKnowledge <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
         
-        description: "",
+        description: "Windows 11 New Features | Get Windows 11 Upgrade Free: How To Get Windows 11 For Free. Microsoft announced the release of Windows 11 on June 24......",
         section: "Posts",
         handler: () => {
           
             window.open("https://wesurftheknowledge.blogspot.com/2021/06/windows-11-new-features-get-windows-11.html", "_blank");
           
         },
-      },{id: "post-10-mobile-apps-every-tech-loving-person-should-be-using-surftheknowledge",
+      },{id: "post-https-wesurftheknowledge-blogspot-com-2021-06-10-mobile-apps-every-tech-loving-person-html",
         
-          title: '10 Mobile Apps Every Tech-Loving Person Should Be Using - SurfTheKnowledge <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+          title: 'https://wesurftheknowledge.blogspot.com/2021/06/10-mobile-apps-every-tech-loving-person.html <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
         
-        description: "In this article, we list top 10 must-have android apps that is best apps for 2021. You must use these apps to increase your tech..useful mobile apps",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -421,11 +421,11 @@ ninja.data = [{
             window.open("https://wesurftheknowledge.blogspot.com/2021/06/seo-tips-for-beginners-how-to-rank-your-blog.html", "_blank");
           
         },
-      },{id: "post-https-wesurftheknowledge-blogspot-com-2021-06-how-to-start-a-blog-in-nepal-html",
+      },{id: "post-how-to-start-a-blog-in-nepal-surftheknowledge",
         
-          title: 'https://wesurftheknowledge.blogspot.com/2021/06/how-to-start-a-blog-in-nepal.html <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+          title: 'How To Start A Blog In Nepal? - SurfTheKnowledge <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
         
-        description: "",
+        description: "How to start a blog in Nepal? How to earn money from blog in Nepal? How to start blogging in Nepal?",
         section: "Posts",
         handler: () => {
           
@@ -443,11 +443,11 @@ ninja.data = [{
             window.open("https://wesurftheknowledge.blogspot.com/2021/05/how-to-register-free-comnp-domain-in.html", "_blank");
           
         },
-      },{id: "post-how-to-create-a-free-wordpress-blog-surftheknowledge",
+      },{id: "post-https-wesurftheknowledge-blogspot-com-2021-05-how-to-create-wordpress-blog-html",
         
-          title: 'How To Create A Free WordPress Blog? - SurfTheKnowledge <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+          title: 'https://wesurftheknowledge.blogspot.com/2021/05/how-to-create-wordpress-blog.html <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
         
-        description: "How to create a free WordPress blog in Nepal, Blogging in Nepal,    learn step-by-step...",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -509,11 +509,11 @@ ninja.data = [{
             window.open("https://wesurftheknowledge.blogspot.com/2021/05/10-free-cloud-storage-you-should-know.html", "_blank");
           
         },
-      },{id: "post-what-are-the-best-linux-alternative-distributions-of-windows-operating-system-surftheknowledge",
+      },{id: "post-https-wesurftheknowledge-blogspot-com-2021-05-best-linux-alternative-distributions-of-html",
         
-          title: 'What Are The Best Linux Alternative Distributions Of Windows Operating System? - SurfTheKnowledge... <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+          title: 'https://wesurftheknowledge.blogspot.com/2021/05/best-linux-alternative-distributions-of.html <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
         
-        description: "Best Linux Alternative Distributions of Windows OS | Which is the best alternative for Windows OS? | SurftheKnowledge",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -586,11 +586,11 @@ ninja.data = [{
             window.open("https://wesurftheknowledge.blogspot.com/2022/04/what-is-cloud-computing.html", "_blank");
           
         },
-      },{id: "post-https-wesurftheknowledge-blogspot-com-2023-08-how-to-install-xampp-and-set-up-php-html",
+      },{id: "post-how-to-install-xampp-and-set-up-php-development-environment-on-windows-surftheknowledge",
         
-          title: 'https://wesurftheknowledge.blogspot.com/2023/08/how-to-install-xampp-and-set-up-php.html <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+          title: 'How to install XAMPP and Set Up PHP Development Environment On Windows -... <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
         
-        description: "",
+        description: "How to install XAMPP and Set Up PHP Development Environment On Windows",
         section: "Posts",
         handler: () => {
           
