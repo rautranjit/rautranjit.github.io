@@ -58,11 +58,11 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/news/";
           },
-        },{id: "post-10-most-innovative-private-space-companies-in-the-world-surftheknowledge",
+        },{id: "post-https-wesurftheknowledge-blogspot-com-2021-08-10-most-innovative-private-space-html",
         
-          title: '10 Most Innovative Private Space Companies In The World - SurfTheKnowledge <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+          title: 'https://wesurftheknowledge.blogspot.com/2021/08/10-most-innovative-private-space.html <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
         
-        description: "10 Most Innovative Private Space Companies In The World | The Future of Space Exploration, Top space companies 2021, Best private space companies.....",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -124,22 +124,22 @@ ninja.data = [{
             window.open("https://wesurftheknowledge.blogspot.com/2021/08/10-best-search-engines-in-theworld.html", "_blank");
           
         },
-      },{id: "post-https-wesurftheknowledge-blogspot-com-2021-08-what-is-pegasus-why-is-it-harmful-html",
+      },{id: "post-what-is-pegasus-why-is-it-harmful-surftheknowledge",
         
-          title: 'https://wesurftheknowledge.blogspot.com/2021/08/what-is-pegasus-why-is-it-harmful.html <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+          title: 'What is Pegasus? Why is It Harmful? - SurfTheKnowledge <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
         
-        description: "",
+        description: "What is Pegasus? Why is it harmful? | Why you should care?, What is Pegasus Spyware? How to protect from Pegasus,  Who is using Pegasus, What is .....",
         section: "Posts",
         handler: () => {
           
             window.open("https://wesurftheknowledge.blogspot.com/2021/08/what-is-pegasus-why-is-it-harmful.html", "_blank");
           
         },
-      },{id: "post-https-wesurftheknowledge-blogspot-com-2021-08-20-blogging-tips-to-rank-your-blog-post-html",
+      },{id: "post-20-blogging-tips-to-rank-your-blog-post-surftheknowledge",
         
-          title: 'https://wesurftheknowledge.blogspot.com/2021/08/20-blogging-tips-to-rank-your-blog-post.html <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+          title: '20 Blogging Tips To Rank Your Blog Post - SurfTheKnowledge <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
         
-        description: "",
+        description: "20 Blogging Tips To Rank Your Blog Post, 20 Blogging Techniques To Rank Your Post On Popular Search Engine, Blogging Tips and Techniques, How to......",
         section: "Posts",
         handler: () => {
           
@@ -212,11 +212,11 @@ ninja.data = [{
             window.open("https://wesurftheknowledge.blogspot.com/2021/08/what-is-augmented-reality-how-it-works.html", "_blank");
           
         },
-      },{id: "post-how-to-make-a-website-using-html-and-css-surftheknowledge",
+      },{id: "post-https-wesurftheknowledge-blogspot-com-2021-08-how-to-make-website-using-html-and-css-html",
         
-          title: 'How To Make A Website Using HTML And CSS - SurfTheKnowledge <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+          title: 'https://wesurftheknowledge.blogspot.com/2021/08/how-to-make-website-using-html-and-css.html <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
         
-        description: "How To Make A Website Using HTML And CSS",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -333,22 +333,22 @@ ninja.data = [{
             window.open("https://wesurftheknowledge.blogspot.com/2021/06/the-future-of-ev-in-nepal.html", "_blank");
           
         },
-      },{id: "post-https-wesurftheknowledge-blogspot-com-2021-06-10-best-selling-video-games-of-all-time-html",
+      },{id: "post-10-best-selling-video-games-of-all-time-surftheknowledge",
         
-          title: 'https://wesurftheknowledge.blogspot.com/2021/06/10-best-selling-video-games-of-all-time.html <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+          title: '10 Best Selling Video Games of All Time - SurfTheKnowledge <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
         
-        description: "",
+        description: "Highest-grossing video games of all time,Best-selling games of all time 2020most popular video games of all timebest-selling video game franchise..",
         section: "Posts",
         handler: () => {
           
             window.open("https://wesurftheknowledge.blogspot.com/2021/06/10-best-selling-video-games-of-all-time.html", "_blank");
           
         },
-      },{id: "post-https-wesurftheknowledge-blogspot-com-2022-02-what-20are-20the-20best-20blogging-20platforms-html",
+      },{id: "post-what-are-the-best-blogging-platforms-available-surftheknowledge",
         
-          title: 'https://wesurftheknowledge.blogspot.com/2022/02/what%20are%20the%20best%20blogging%20platforms.html <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+          title: 'What Are The Best Blogging Platforms Available? - SurfTheKnowledge <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
         
-        description: "",
+        description: "What Are The Best Blogging Platforms Available? Here are the examples of blogging platformsblogging platforms free best free blog sites to start blog",
         section: "Posts",
         handler: () => {
           
@@ -399,11 +399,11 @@ ninja.data = [{
             window.open("https://wesurftheknowledge.blogspot.com/2021/06/windows-11-new-features-get-windows-11.html", "_blank");
           
         },
-      },{id: "post-https-wesurftheknowledge-blogspot-com-2021-06-10-mobile-apps-every-tech-loving-person-html",
+      },{id: "post-10-mobile-apps-every-tech-loving-person-should-be-using-surftheknowledge",
         
-          title: 'https://wesurftheknowledge.blogspot.com/2021/06/10-mobile-apps-every-tech-loving-person.html <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+          title: '10 Mobile Apps Every Tech-Loving Person Should Be Using - SurfTheKnowledge <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
         
-        description: "",
+        description: "In this article, we list top 10 must-have android apps that is best apps for 2021. You must use these apps to increase your tech..useful mobile apps",
         section: "Posts",
         handler: () => {
           
@@ -443,22 +443,22 @@ ninja.data = [{
             window.open("https://wesurftheknowledge.blogspot.com/2021/05/how-to-register-free-comnp-domain-in.html", "_blank");
           
         },
-      },{id: "post-https-wesurftheknowledge-blogspot-com-2021-05-how-to-create-wordpress-blog-html",
+      },{id: "post-how-to-create-a-free-wordpress-blog-surftheknowledge",
         
-          title: 'https://wesurftheknowledge.blogspot.com/2021/05/how-to-create-wordpress-blog.html <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+          title: 'How To Create A Free WordPress Blog? - SurfTheKnowledge <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
         
-        description: "",
+        description: "How to create a free WordPress blog in Nepal, Blogging in Nepal,    learn step-by-step...",
         section: "Posts",
         handler: () => {
           
             window.open("https://wesurftheknowledge.blogspot.com/2021/05/how-to-create-wordpress-blog.html", "_blank");
           
         },
-      },{id: "post-what-is-blockchain-technology-how-does-it-work-surftheknowledge",
+      },{id: "post-https-wesurftheknowledge-blogspot-com-2021-05-what-is-blockchain-technology-simple-html",
         
-          title: 'What is Blockchain Technology? How Does It Work? - SurfTheKnowledge <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+          title: 'https://wesurftheknowledge.blogspot.com/2021/05/what-is-blockchain-technology-simple.html <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
         
-        description: "what is blockchain technology explained briefly, explain how it works, blockchain definition and  why is it popular, blockchain and Nepal",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -509,11 +509,11 @@ ninja.data = [{
             window.open("https://wesurftheknowledge.blogspot.com/2021/05/10-free-cloud-storage-you-should-know.html", "_blank");
           
         },
-      },{id: "post-https-wesurftheknowledge-blogspot-com-2021-05-best-linux-alternative-distributions-of-html",
+      },{id: "post-what-are-the-best-linux-alternative-distributions-of-windows-operating-system-surftheknowledge",
         
-          title: 'https://wesurftheknowledge.blogspot.com/2021/05/best-linux-alternative-distributions-of.html <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+          title: 'What Are The Best Linux Alternative Distributions Of Windows Operating System? - SurfTheKnowledge... <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
         
-        description: "",
+        description: "Best Linux Alternative Distributions of Windows OS | Which is the best alternative for Windows OS? | SurftheKnowledge",
         section: "Posts",
         handler: () => {
           
@@ -531,9 +531,9 @@ ninja.data = [{
             window.open("https://wesurftheknowledge.blogspot.com/2021/05/what-is-affiliate-marketing-and-how.html", "_blank");
           
         },
-      },{id: "post-https-wesurftheknowledge-blogspot-com-2021-04-cryptocurrency-and-nepal-html",
+      },{id: "post-what-is-cryptocurrency-how-does-it-work-surftheknowledge",
         
-          title: 'https://wesurftheknowledge.blogspot.com/2021/04/cryptocurrency-and-nepal.html <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+          title: 'What is Cryptocurrency? How Does It Work? - SurfTheKnowledge <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
         
         description: "",
         section: "Posts",
@@ -542,11 +542,11 @@ ninja.data = [{
             window.open("https://wesurftheknowledge.blogspot.com/2021/04/cryptocurrency-and-nepal.html", "_blank");
           
         },
-      },{id: "post-what-is-nft-how-does-nft-work-pros-and-cons-of-nft-surftheknowledge",
+      },{id: "post-https-wesurftheknowledge-blogspot-com-2022-03-what-is-nft-how-it-works-html",
         
-          title: 'What is NFT? How does NFT work? Pros and Cons of NFT -... <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+          title: 'https://wesurftheknowledge.blogspot.com/2022/03/what-is-nft-how-it-works.html <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
         
-        description: "What is NFT? How does NFT work? What are the advantage and disadvantage of NFT? What is Non-fungible Tokens? How do Non-fungible Tokens work?",
+        description: "",
         section: "Posts",
         handler: () => {
           
